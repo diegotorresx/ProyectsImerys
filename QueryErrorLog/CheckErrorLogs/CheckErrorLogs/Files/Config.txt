@@ -1,0 +1,4 @@
+Key|Value
+connectionStringTest|Data Source = DESKTOP-D4K75HQ\SQLEXPRESS; Initial Catalog=RPA;Integrated Security=True;
+spQueryName|sp_Query_Error_Log
+spUpdateName|sp_Update_Error_Log

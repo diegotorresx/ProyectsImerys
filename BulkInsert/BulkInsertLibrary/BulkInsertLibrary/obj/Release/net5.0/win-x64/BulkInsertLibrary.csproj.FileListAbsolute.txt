@@ -1,0 +1,11 @@
+C:\ProyectosImeris\BulkInsert\BulkInsertLibrary\BulkInsertLibrary\bin\Release\net5.0\win-x64\BulkInsertLibrary.deps.json
+C:\ProyectosImeris\BulkInsert\BulkInsertLibrary\BulkInsertLibrary\bin\Release\net5.0\win-x64\BulkInsertLibrary.dll
+C:\ProyectosImeris\BulkInsert\BulkInsertLibrary\BulkInsertLibrary\bin\Release\net5.0\win-x64\ref\BulkInsertLibrary.dll
+C:\ProyectosImeris\BulkInsert\BulkInsertLibrary\BulkInsertLibrary\bin\Release\net5.0\win-x64\BulkInsertLibrary.pdb
+C:\ProyectosImeris\BulkInsert\BulkInsertLibrary\BulkInsertLibrary\obj\Release\net5.0\win-x64\BulkInsertLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosImeris\BulkInsert\BulkInsertLibrary\BulkInsertLibrary\obj\Release\net5.0\win-x64\BulkInsertLibrary.AssemblyInfoInputs.cache
+C:\ProyectosImeris\BulkInsert\BulkInsertLibrary\BulkInsertLibrary\obj\Release\net5.0\win-x64\BulkInsertLibrary.AssemblyInfo.cs
+C:\ProyectosImeris\BulkInsert\BulkInsertLibrary\BulkInsertLibrary\obj\Release\net5.0\win-x64\BulkInsertLibrary.csproj.CoreCompileInputs.cache
+C:\ProyectosImeris\BulkInsert\BulkInsertLibrary\BulkInsertLibrary\obj\Release\net5.0\win-x64\BulkInsertLibrary.dll
+C:\ProyectosImeris\BulkInsert\BulkInsertLibrary\BulkInsertLibrary\obj\Release\net5.0\win-x64\ref\BulkInsertLibrary.dll
+C:\ProyectosImeris\BulkInsert\BulkInsertLibrary\BulkInsertLibrary\obj\Release\net5.0\win-x64\BulkInsertLibrary.pdb

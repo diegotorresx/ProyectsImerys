@@ -1,0 +1,10 @@
+C:\ProyectosImeris\AppRunMyProcess\AppRunMyProcess\bin\Debug\netstandard2.1\AppRunMyProcess.deps.json
+C:\ProyectosImeris\AppRunMyProcess\AppRunMyProcess\bin\Debug\netstandard2.1\AppRunMyProcess.dll
+C:\ProyectosImeris\AppRunMyProcess\AppRunMyProcess\bin\Debug\netstandard2.1\AppRunMyProcess.pdb
+C:\ProyectosImeris\AppRunMyProcess\AppRunMyProcess\obj\Debug\netstandard2.1\AppRunMyProcess.csproj.AssemblyReference.cache
+C:\ProyectosImeris\AppRunMyProcess\AppRunMyProcess\obj\Debug\netstandard2.1\AppRunMyProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosImeris\AppRunMyProcess\AppRunMyProcess\obj\Debug\netstandard2.1\AppRunMyProcess.AssemblyInfoInputs.cache
+C:\ProyectosImeris\AppRunMyProcess\AppRunMyProcess\obj\Debug\netstandard2.1\AppRunMyProcess.AssemblyInfo.cs
+C:\ProyectosImeris\AppRunMyProcess\AppRunMyProcess\obj\Debug\netstandard2.1\AppRunMyProcess.csproj.CoreCompileInputs.cache
+C:\ProyectosImeris\AppRunMyProcess\AppRunMyProcess\obj\Debug\netstandard2.1\AppRunMyProcess.dll
+C:\ProyectosImeris\AppRunMyProcess\AppRunMyProcess\obj\Debug\netstandard2.1\AppRunMyProcess.pdb

@@ -1,0 +1,2 @@
+ConnectionString|spName|tableName|pathFile
+Data Source = DESKTOP-D4K75HQ\SQLEXPRESS; Initial Catalog=RPA;Integrated Security=True;|BulkInsert|BulkInsertTest|C:\ProyectosImeris\BulkInsert\BulkInsertLibrary\BulkInsertApp\InputFile\test1.csv

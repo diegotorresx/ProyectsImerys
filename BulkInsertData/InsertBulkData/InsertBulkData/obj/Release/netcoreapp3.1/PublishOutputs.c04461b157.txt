@@ -1,0 +1,17 @@
+C:\PublicacionesImeris\WorkdayInsert\Config\Config.csv
+C:\PublicacionesImeris\WorkdayInsert\Error\Error.csv
+C:\PublicacionesImeris\WorkdayInsert\Files\Data.csv
+C:\PublicacionesImeris\WorkdayInsert\InsertBulkData.exe
+C:\PublicacionesImeris\WorkdayInsert\InsertBulkData.dll
+C:\PublicacionesImeris\WorkdayInsert\InsertBulkData.deps.json
+C:\PublicacionesImeris\WorkdayInsert\InsertBulkData.runtimeconfig.json
+C:\PublicacionesImeris\WorkdayInsert\InsertBulkData.pdb
+C:\PublicacionesImeris\WorkdayInsert\Dapper.dll
+C:\PublicacionesImeris\WorkdayInsert\System.Data.SqlClient.dll
+C:\PublicacionesImeris\WorkdayInsert\runtimes\win-arm64\native\sni.dll
+C:\PublicacionesImeris\WorkdayInsert\runtimes\win-x64\native\sni.dll
+C:\PublicacionesImeris\WorkdayInsert\runtimes\win-x86\native\sni.dll
+C:\PublicacionesImeris\WorkdayInsert\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\PublicacionesImeris\WorkdayInsert\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\PublicacionesImeris\WorkdayInsert\BusinessLogicLibrary.dll
+C:\PublicacionesImeris\WorkdayInsert\BusinessLogicLibrary.pdb

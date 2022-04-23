@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "651ecf02-9878-4f82-8f07-f0b3aa1f1748": {
+      "ProjectGuid": "651ecf02-9878-4f82-8f07-f0b3aa1f1748",
+      "DisplayName": "UpdateDataTemplate",
+      "ColorIndex": 0
+    },
+    "20b2b2a9-38af-44d0-bd97-8fedbfd8402d": {
+      "ProjectGuid": "20b2b2a9-38af-44d0-bd97-8fedbfd8402d",
+      "DisplayName": "CreatePDF",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

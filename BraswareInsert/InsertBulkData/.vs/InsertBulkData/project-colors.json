@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d7aac5c-b06b-4843-aadd-a75ae72bb407": {
+      "ProjectGuid": "3d7aac5c-b06b-4843-aadd-a75ae72bb407",
+      "DisplayName": "InsertBulkData",
+      "ColorIndex": 0
+    },
+    "c4dd713f-fbcc-40ad-a6c7-e92fdf0404d4": {
+      "ProjectGuid": "c4dd713f-fbcc-40ad-a6c7-e92fdf0404d4",
+      "DisplayName": "BusinessLogicLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

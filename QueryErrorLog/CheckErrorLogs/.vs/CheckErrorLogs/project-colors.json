@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "404592a5-8564-46d8-a127-2199b9f12d07": {
+      "ProjectGuid": "404592a5-8564-46d8-a127-2199b9f12d07",
+      "DisplayName": "CheckErrorLogs",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

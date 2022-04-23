@@ -1,0 +1,1493 @@
+GL Account Number,GL Account Name ,Account type ,Mapping
+101000,Capital Stock,Liability,Non- P&L 
+101001,Capital Stock - Preferred Shared,Liability,Non- P&L 
+104000,Paid in Surplus,Liability,Non- P&L 
+104100,Share Capital Premiums Asset Restructuring,Liability,Non- P&L 
+105000,Treasury Stock,Liability,Non- P&L 
+106200,Group Conversion Reserves,Liability,Non- P&L 
+108000,Consolidated Reserves,Liability,Non- P&L 
+111000,Retained Earn-Prior Year (L),Liability,Non- P&L 
+111001,Retained Earn-Prior Year (M),Liability,Non- P&L 
+111002,Retained Earn-Dividend,Liability,Non- P&L 
+111100,Reserves-Net Investment Hedge,Liability,Non- P&L 
+111103,Reserves-Net Invst Hedge Inc Tax,Liability,Non- P&L 
+111104,Rsv-Act Diff & Asst Ceiling,Liability,Non- P&L 
+111105,Rsv-Act Diff & Asst Ceiling Inc Tax,Liability,Non- P&L 
+151090,Accr Legal Purchase Accounting,Liability,Non- P&L 
+151091,Accr Legal Reserve,Liability,Non- P&L 
+151095,Litigation > €250k followed by Legal Department,Liability,Non- P&L 
+151400,Provision for Income Tax Risks,Liability,Non- P&L 
+151600,Purchase Accounting Accrual,Liability,Non- P&L 
+151601,Environmental Accrual,Liability,Non- P&L 
+151700,Other Prov for Risks & Charges - NC,Liability,Non- P&L 
+151790,Other Prov for Risks & Charges - C,Liability,Non- P&L 
+152000,Accr Pension Liability,Liability,Non- P&L 
+152001,Accr Unfunded Pension Liability,Liability,Non- P&L 
+152002,Accr Pension Liability - Financial,Liability,Non- P&L 
+152010,Accr Pension Payments,Liability,Non- P&L 
+152020,Accr Pension Payments - Closed Plan,Liability,Non- P&L 
+152200,Accr IAS 19 Benefits,Liability,Non- P&L 
+152201,Accr IAS 19 Benefits - Financial,Liability,Non- P&L 
+152210,IAS 19 Payments,Liability,Non- P&L 
+152220,Unfunded ERP,Liability,Non- P&L 
+152500,Accr Land Reclam - Primary C,Liability,Non- P&L 
+152501,Accr Land Reclam - Primary NC,Liability,Non- P&L 
+152502,Accr Land Reclam - Secondary C,Liability,Non- P&L 
+152503,Accr Land Reclam - Secondary NC,Liability,Non- P&L 
+152504,Provision for Dismantling,Liability,Non- P&L 
+152505,Accr Land Reclam Progressive Damage,Liability,Non- P&L 
+152600,Severance Reserve,Liability,Non- P&L 
+152619,Provision for Dismantling of Assets related to a Lease Contr,Liability,Non- P&L 
+152800,Provision for Restructuring Cost,Liability,Non- P&L 
+152801,Accr Group Medical,Liability,Non- P&L 
+152802,Accr Workers Comp,Liability,Non- P&L 
+152803,Other Provisions for Charges,Liability,Non- P&L 
+152805,Accrued Group Medical - Severance,Liability,Non- P&L 
+152807,Rail Fleet Provision,Liability,Non- P&L 
+152810,Medical Payments,Liability,Non- P&L 
+152811,Accr Union Medical,Liability,Non- P&L 
+152820,Workers Comp Payments,Liability,Non- P&L 
+152850,Provision for Short Term Disability,Liability,Non- P&L 
+153000,Deferred Tax Liability,Liability,Non- P&L 
+153001,Deferred Tax Liability - State,Liability,Non- P&L 
+164000,Notes Payable - LT,Liability,Non- P&L 
+164010,Notes Payable - C,Liability,Non- P&L 
+167000,Group Financial Debts - Short Term,Liability,Non- P&L 
+167001,Group Financial Debts - Long Term,Liability,Non- P&L 
+168000,Capital Lease - Short Term,Liability,Non- P&L 
+168001,Capital Lease - Long Term,Liability,Non- P&L 
+168002,Accrued Payroll Deferred Comp,Liability,Non- P&L 
+168100,Other Financial Debts - C,Liability,Non- P&L 
+169000,Lease Liabilities - Non-Current,Liability,Non- P&L 
+169100,Lease Liabilities - Current,Liability,Non- P&L 
+200900,Right-of-Use Assets - Intangible Assets,Asset,Non- P&L 
+203000,Development Costs,Asset,Non- P&L 
+205000,"Trade Marks, Patents and Licences",Asset,Non- P&L 
+205100,Prepaid Mineral Leases & Use Rights,Asset,Non- P&L 
+205200,Emission Rights,Asset,Non- P&L 
+206000,Software,Asset,Non- P&L 
+207000,Goodwill,Asset,Non- P&L 
+208000,Other Intangible Assets,Asset,Non- P&L 
+208001,Intangible Assets Under Const,Asset,Non- P&L 
+208002,Intangible Assets - Capitalization,Asset,Non- P&L 
+209000,Purchased Goodwill,Asset,Non- P&L 
+210000,Overburden Asset Primary,Asset,Non- P&L 
+210001,Overburden Asset Secondary,Asset,Non- P&L 
+210002,Drill Deferral,Asset,Non- P&L 
+210003,Strip Deferral,Asset,Non- P&L 
+210900,Right-of-Use Assets - Tangible Assets,Asset,Non- P&L 
+211000,Land,Asset,Non- P&L 
+212000,Mining Reserves,Asset,Non- P&L 
+213000,Buildings,Asset,Non- P&L 
+214000,Leasehold Improvements,Asset,Non- P&L 
+215000,Plant,Asset,Non- P&L 
+215025,Capital Parts,Asset,Non- P&L 
+216100,Freehold Assets to be Dismantled,Asset,Non- P&L 
+218000,Other Tangible Fixed Assets,Asset,Non- P&L 
+231000,CIP-Capital Expenditures-Sustenance,Asset,Non- P&L 
+231001,CIP - Asset Capitalization,Asset,Non- P&L 
+231100,CIP-Capital Expenditures-Overburden,Asset,Non- P&L 
+231101,CIP - Asset Capitalization,Asset,Non- P&L 
+231200,CIP-Capital Expenditures-Development,Asset,Non- P&L 
+231201,CIP - Asset Capitalization - Development,Asset,Non- P&L 
+231300,CIP - Capital Expenditures - Strategic Development,Asset,Non- P&L 
+231301,CIP - Asset Capitalization - Strategic Development,Asset,Non- P&L 
+231400,CIP-Capital Exp-Development-Min Reserves,Asset,Non- P&L 
+231401,CIP-Asset Cap-Development-Min Reserves,Asset,Non- P&L 
+238001,Down Payments on PPE,Asset,Non- P&L 
+261000,Investment in Subsidiary,Asset,Non- P&L 
+272000,Fin Fixed Assets-Interco Loans-C,Balance,Non- P&L 
+272001,Fin Fixed Assets-Interco Loans-NC,Asset,Non- P&L 
+272005,A/R - Intercompany Cash (M),Asset,Non- P&L 
+272006,A/R - Intercompany Netting,Asset,Non- P&L 
+272011,Fin Fixed Assets - Inventory Inter-Unit AR/AP,Balance,Non- P&L 
+272100,Fin Fixed Assets-I/C Cash-Interim,Asset,Non- P&L 
+272200,AR Cash Postings IFS/AX - Kaolin/Paper,Asset,Non- P&L 
+272300,AR Cash Postings IFS/AX - Carbonates/Perfmin,Asset,Non- P&L 
+272400,AP Postings IFS/AX,Asset,Non- P&L 
+272801,"Due To / From C-E Minerals, Inc. (330)",Balance,Non- P&L 
+272802,Due To / From Mullite Company of America (331),Balance,Non- P&L 
+272803,"Due To / From Tennessee Electro Minerals, Inc. (332)",Balance,Non- P&L 
+272804,"Due To / From AMMIN Holdings, Inc. (353)",Balance,Non- P&L 
+272805,"Due To / From C-E Newell, Inc. (8021)",Balance,Non- P&L 
+272806,"Due To / From Minerals Trading, Inc. (8025)",Balance,Non- P&L 
+272807,"Due To / From Imerys Oilfield Minerals, Inc. (8393)",Balance,Non- P&L 
+272808,Due To / From Pyramax Ceramics LLC (8448),Balance,Non- P&L 
+272809,"Due To / From Imerys Filtration Minerals, Inc. (1PFM)",Balance,Non- P&L 
+272810,"Due To / From Imerys Filtration Minerals, Inc. (8311)",Balance,Non- P&L 
+272811,"Due To / From Imerys Filtration Minerals, Inc. (8302)",Balance,Non- P&L 
+272812,"Due To / From Imerys Filtration Minerals, Inc. (8300)",Balance,Non- P&L 
+272813,"Due To / From Imerys Filtration Minerals, Inc. (8306)",Balance,Non- P&L 
+272814,"Due To / From Imerys Filtration Minerals, Inc. (8271)",Balance,Non- P&L 
+272815,"Due To / From Imerys Paper Carbonates, LLC (8197)",Balance,Non- P&L 
+272816,"Due To / From Americarb, Inc. (1611)",Balance,Non- P&L 
+272817,"Due To / From Imerys Calcium Products, Inc. (1614)",Balance,Non- P&L 
+272818,"Due To / From Imerys Carbonates, LLC (1617)",Balance,Non- P&L 
+272819,"Due To / From Imerys Marble, Inc. (334)",Balance,Non- P&L 
+272820,"Due To / From Imerys Mica Kings Mountain, Inc. (8387)",Balance,Non- P&L 
+272821,Due To / From Kentucky-Tennessee Clay Company (1901),Balance,Non- P&L 
+272822,"Due To / From Imerys Clays, Inc. (1612)",Balance,Non- P&L 
+272823,Due To / From Imerys Canada L.P. (8219),Balance,Non- P&L 
+272824,"Due To / From Kaopolite, Inc. (335A)",Balance,Non- P&L 
+272825,"Due To / From Imerys Kaolin, Inc. (335)",Balance,Non- P&L 
+272826,"Due To / From Imerys Clays, Inc. (Fiber Tech) (FTUS)",Balance,Non- P&L 
+272827,"Due To / From Imerys USA, Inc. (7602)",Balance,Non- P&L 
+272828,"Due To / From Imerys Pigments, Inc. (1615)",Balance,Non- P&L 
+272829,"Due To / From Imerys Clays, Inc. (Region Center) (1613)",Balance,Non- P&L 
+272830,"Due To / From Imerys Bentonite USA, Inc. (8462)",Balance,Non- P&L 
+272831,"Due To / From Imerys Kaolin, Inc.(Pr Raw Matl Sourcg) (335P)",Balance,Non- P&L 
+272832,"Due To / From Imerys Clays, Inc. (PRM2)",Balance,Non- P&L 
+272833,Due To / From Kentucky-Tennessee Clay Company (PRM4),Balance,Non- P&L 
+272834,Due To / From Pyramax Ceramics LLC (PRM6),Balance,Non- P&L 
+272835,Due To / From Mullite Company of America (PRM7),Balance,Non- P&L 
+272836,"Due To / From Imerys Kaolin, Inc. (Mining) (PRM3)",Balance,Non- P&L 
+272837,"Due To / From Calderys USA, Inc. (8543)",Balance,Non- P&L 
+272838,"Due To / From Imerys Wollastonite, LLC (8502)",Balance,Non- P&L 
+272839,"Due To / From Imerys Fused Minerals Greeneville, Inc. (8359)",Balance,Non- P&L 
+272840,"Due To / From Imerys Talc America, Inc. (8410)",Balance,Non- P&L 
+272841,"Due To / From Imerys Talc Vermont, Inc. (8414)",Balance,Non- P&L 
+272842,"Due To / From Imerys Talc Canada, Inc. (8416)",Balance,Non- P&L 
+272843,"Due To / From Imerys Fused Niagara Falls, Inc. (3106)",Balance,Non- P&L 
+272844,"Due To / From Imerys Mica Suzorite, Inc. (8386)",Balance,Non- P&L 
+272845,"Due To / From ImerTech USA, Inc. (8615)",Balance,Non- P&L 
+272846,Due To / From Kerneos Inc. (8597),Balance,Non- P&L 
+274000,Non-Grp Loans & Other Fin Assets NC,Asset,Non- P&L 
+274100,Non Group Loans and Other Fin Assets - C,Asset,Non- P&L 
+276000,Other Fixed Financial Assets - Ext,Asset,Non- P&L 
+280090,Accum Amort Right-of-Use Assets - Intangible Assets,Asset,Non- P&L 
+280300,A/A - Development Costs,Asset,Non- P&L 
+280500,"Acc Amort Trade Marks, Patents and Licences",Asset,Non- P&L 
+281000,A/D - Overburden Asset - Primary,Asset,Non- P&L 
+281001,A/D - Overburden Asset - Secondary,Asset,Non- P&L 
+281002,A/D Drill Deferral,Asset,Non- P&L 
+281003,A/D Strip Deferral,Asset,Non- P&L 
+281090,Accum Amort Right-of-Use Assets - Tangible Assets,Asset,Non- P&L 
+281610,Acc Dep Freehold Assets to be Dismantled,Asset,Non- P&L 
+285100,A/A - PPD Mineral Leases/Use Rights,Asset,Non- P&L 
+286000,A/A - Software,Asset,Non- P&L 
+287000,A/A - Goodwill,Asset,Non- P&L 
+288000,A/A - Other Intangible Assets,Asset,Non- P&L 
+291000,A/D - Land,Asset,Non- P&L 
+292000,A/D - Mining Reserves,Asset,Non- P&L 
+293000,A/D - Buildings,Asset,Non- P&L 
+293001,A/D - Leasehold Improvements,Asset,Non- P&L 
+294000,A/D - Plants,Asset,Non- P&L 
+294025,A/D - Capital Parts,Asset,Non- P&L 
+294100,A/D - Plants - UOP,Asset,Non- P&L 
+295000,A/D - Other Tangible Fixed Assets,Asset,Non- P&L 
+296050,Write-Down PPE under Construction,Asset,Non- P&L 
+296100,Write-Down Investments,Asset,Non- P&L 
+297400,Write-Down Non Group Loans and Other Fin Assets - NC,Asset,Non- P&L 
+297410,Write-Down Non Group Loans and Other Fin Assets - C,Asset,Non- P&L 
+311000,Raw Materials (L),Asset,Non- P&L 
+311002,RM - Crude Stone (M),Asset,Non- P&L 
+311003,RM - CMMS Load,Asset,Non- P&L 
+311010,RM - Stockpiles (L),Asset,Non- P&L 
+311011,RM - Stockpiles (M),Asset,Non- P&L 
+311012,RM - Crude in Ground (M),Asset,Non- P&L 
+311014,RM - Crude Tank Inventory,Asset,Non- P&L 
+311016,RM - Purchased Crude (L),Asset,Non- P&L 
+311017,RM - Purchased Crude (M),Asset,Non- P&L 
+311018,Crude BFA In Transit,Asset,Non- P&L 
+311019,Inventory - BFA Crude Work In Process,Asset,Non- P&L 
+311020,Inventory - Stores (L),Asset,Non- P&L 
+311021,Inventory - Stores (M),Asset,Non- P&L 
+311023,RM - Consignment - Chem,Asset,Non- P&L 
+311024,RM - Consignment - Chem Contra,Asset,Non- P&L 
+311025,RM - Consignment - Stores,Asset,Non- P&L 
+311026,RM - Consignment - Stores Contra,Asset,Non- P&L 
+311027,RM - Consignment - PKG,Asset,Non- P&L 
+311028,RM - Consignment - PKG Contra,Asset,Non- P&L 
+311030,RM - Chemicals (L),Asset,Non- P&L 
+311031,RM - Chemicals (M),Asset,Non- P&L 
+311040,RM - Packaging (L),Asset,Non- P&L 
+311041,RM - Packaging (M),Asset,Non- P&L 
+311050,RM - Gas (L),Asset,Non- P&L 
+311051,RM - Gas (M),Asset,Non- P&L 
+311052,RM - Lime (L),Asset,Non- P&L 
+311053,RM - Lime (M),Asset,Non- P&L 
+311054,RM - Carbon Dioxide (L),Asset,Non- P&L 
+311055,Carbon - Electrodes (L),Asset,Non- P&L 
+311056,RM - Coal (L),Asset,Non- P&L 
+311057,RM - Coal (M),Asset,Non- P&L 
+311058,RM - Alternative Fuels (L),Asset,Non- P&L 
+311059,RM - Alternative Fuels (M),Asset,Non- P&L 
+311061,RM- Consignment - Electrodes,Asset,Non- P&L 
+311062,RM- Consignment - Electrodes Contra,Asset,Non- P&L 
+330000,WIP (L),Asset,Non- P&L 
+330001,WIP (M),Asset,Non- P&L 
+331000,Tank/Silo Inventory (L),Asset,Non- P&L 
+331001,Tank/Silo Inventory (M),Asset,Non- P&L 
+351000,Finished Goods (L),Asset,Non- P&L 
+351001,Finished Goods (M),Asset,Non- P&L 
+351011,Freight Inventory (M),Asset,Non- P&L 
+351400,Fin Goods Inv - Consigned (L),Asset,Non- P&L 
+351401,Fin Goods Inv - Consigned (M),Asset,Non- P&L 
+351410,Inventory in Transit (L),Asset,Non- P&L 
+351411,Inventory in Transit (M),Asset,Non- P&L 
+370000,Merchandise Inventory - Internal (L),Asset,Non- P&L 
+370001,Merchandise Inventory - Internal (M),Asset,Non- P&L 
+370100,Merchandise Inventory - External (L),Asset,Non- P&L 
+370101,Merchandise Inventory - External (M),Asset,Non- P&L 
+390000,Prov for Inv Losses - RM,Asset,Non- P&L 
+390001,Prov for Inv Losses - Spare Parts,Asset,Non- P&L 
+390002,Prov for Inv Losses - WIP,Asset,Non- P&L 
+390003,Prov for Inv Losses - FG,Asset,Non- P&L 
+395100,IFRS LIFO Reserve,Asset,Non- P&L 
+397001,Prov for Inv Losses - Merchandise,Asset,Non- P&L 
+400000,A/P Trade - External (L),Liability,Non- P&L 
+400001,A/P Trade - External (M),Liability,Non- P&L 
+400002,A/P Trade - O/S Checks,Liability,Non- P&L 
+400003,A/P Trade - Patty Shipping,Liability,Non- P&L 
+400010,A/P Trade - Prelim Invoices (L),Liability,Non- P&L 
+400011,A/P Trade - Clearing Account,Liability,Non- P&L 
+400050,A/P Trade - Internal (L),Liability,Non- P&L 
+400051,A/P Trade - Internal (M),Liability,Non- P&L 
+400100,Accr A/P Trade - Ext - Inv (L),Liability,Non- P&L 
+400101,Accr A/P Trade - Ext - Inv Ret Ven,Liability,Non- P&L 
+400102,Accr A/P Trade - External (M),Liability,Non- P&L 
+400103,Accr A/P Trade - Ext - Other (L),Liability,Non- P&L 
+400104,Accr A/P Trade - Ext - Other (M),Liability,Non- P&L 
+400120,Accr A/P Trade - Trax (M),Liability,Non- P&L 
+400125,Vouchers Payable Freight SIC,Liability,Non- P&L 
+400126,Vouchers Payable Crude BFA Freight,Liability,Non- P&L 
+400150,Accr A/P Trade - Internal (L),Liability,Non- P&L 
+400152,Accr A/P Trade - Internal (M),Liability,Non- P&L 
+400200,Accr Natural Gas,Liability,Non- P&L 
+400210,Accr Electricity,Liability,Non- P&L 
+400220,Accr Water,Liability,Non- P&L 
+400230,Accr Sewer/Dredging Cost,Liability,Non- P&L 
+400240,Accr Freight (M),Liability,Non- P&L 
+400300,Accr Misc Exp,Liability,Non- P&L 
+400301,Accr Consignment - Stores,Liability,Non- P&L 
+400303,Accr Consignment - Chem,Liability,Non- P&L 
+400304,Accr Consignment - PKG,Liability,Non- P&L 
+400307,Accr P-Card (Monthly Accrual),Liability,Non- P&L 
+400308,Accr ConcurPay (Monthly Accrual),Liability,Non- P&L 
+400316,Accr Accounts Payable,Liability,Non- P&L 
+400317,Accr P - Card (Interface),Liability,Non- P&L 
+400318,Accr ConcurPay  (Interface),Liability,Non- P&L 
+400319,Accr Audit,Liability,Non- P&L 
+400321,Accr Earned Royalties,Liability,Non- P&L 
+400323,Accr Minimum Royalties,Liability,Non- P&L 
+400326,Accr Misc - General,Liability,Non- P&L 
+400328,Accr Misc - Theile Waste Pond,Liability,Non- P&L 
+400330,Accr Misc - Railcar Rent,Liability,Non- P&L 
+400332,Accr Misc - Pollution Control Fees,Liability,Non- P&L 
+400342,Unclaimed Prop Suspense - Accts Pay,Liability,Non- P&L 
+400343,Unclaimed Prop Suspense - Royalties,Liability,Non- P&L 
+400344,Unclaimed Prop Suspense- AR/Credit,Liability,Non- P&L 
+400348,Accr Misc - Insurance,Liability,Non- P&L 
+400350,A/P for Anaplan Entries,Liability,Non- P&L 
+400401,Accr Commission,Liability,Non- P&L 
+404000,A/P Trade - Capital Proj (L),Liability,Non- P&L 
+404001,A/P Trade - Capital Proj (M),Liability,Non- P&L 
+404100,Accr A/P Trade - Cap Proj (L),Liability,Non- P&L 
+404102,Accr A/P Trade - Cap Proj (M),Liability,Non- P&L 
+404200,Payables from Intangible Assets Acquisitions,Liability,Non- P&L 
+404210,Payables from PPE Acquisitions,Liability,Non- P&L 
+404220,Payables from Investments Acquisitions,Liability,Non- P&L 
+404500,Capital Expenditure Related Payable,Liability,Non- P&L 
+404501,Capital Expenditure Related Pay - C,Liability,Non- P&L 
+409000,Down Payment to Suppliers,Asset,Non- P&L 
+410000,A/R Trade - External (L),Asset,Non- P&L 
+410001,A/R Trade - External (M),Asset,Non- P&L 
+410002,A/R - Misc - Sales,Asset,Non- P&L 
+410003,A/R - Legacy System Transfer,Asset,Non- P&L 
+410004,A/R - Trade - Sales Rebates,Asset,Non- P&L 
+410005,A/R - Customer Refunds,Asset,Non- P&L 
+410050,A/R Trade - Internal (L),Asset,Non- P&L 
+410051,A/R Trade - Internal (M),Asset,Non- P&L 
+410900,A/R - Unapplied Cash (L),Asset,Non- P&L 
+419000,Down Payments from Customers,Asset,Non- P&L 
+420000,Accr Payroll,Liability,Non- P&L 
+420002,A/P Employees (L),Liability,Non- P&L 
+420003,A/P Employees (M),Liability,Non- P&L 
+420008,P/R Withholding 401(k)-loan repayment,Liability,Non- P&L 
+420009,Accr 401K Employer Contributions,Liability,Non- P&L 
+420010,Accr 401k Contributions,Liability,Non- P&L 
+420011,Accr Garnishments,Liability,Non- P&L 
+420012,Accr Credit Union,Liability,Non- P&L 
+420013,Accr HSA,Liability,Non- P&L 
+420014,Accr Bonus Current Year,Liability,Non- P&L 
+420015,Accr Bonus Prior Year,Liability,Non- P&L 
+420016,Accr ESP Dividend,Liability,Non- P&L 
+420017,Accr Union Dues,Liability,Non- P&L 
+420018,Accr Stock Options,Liability,Non- P&L 
+420019,Accr Uniforms,Liability,Non- P&L 
+420020,Accr Employee Relocation,Liability,Non- P&L 
+420021,Accr HR Purchase Power - Employee Benefit,Liability,Non- P&L 
+420022,P/R Withholding - United Way,Liability,Non- P&L 
+420023,Accrued Liability - HRA INS,Liability,Non- P&L 
+420024,Employee Personal Loan (PRL),Liability,Non- P&L 
+420030,"Accr Vacation, Holiday & Sick Pay",Liability,Non- P&L 
+420035,Payroll Clearing Account,Liability,Non- P&L 
+420120,Accr Payroll Taxes,Liability,Non- P&L 
+420125,Accr ER Social Security Tax-NC,Liability,Non- P&L 
+420126,Accr ER Social Security Tax - C,Liability,Non- P&L 
+420130,Accr Bonus - MIP,Liability,Non- P&L 
+420135,Accr Invest Contr Current Year,Liability,Non- P&L 
+420136,Accr Invest Contr Prior Year,Liability,Non- P&L 
+430000,Accr Property Tax - C,Liability,Non- P&L 
+430001,Accr Property Tax - NC,Liability,Non- P&L 
+430050,Accr Tax Debt / Timber - C,Liability,Non- P&L 
+430100,Accr State Sales/Use Tax (L) - C,Liability,Non- P&L 
+430101,Accr State Sales/Use Tax (M) - C,Liability,Non- P&L 
+430102,Accr Fees & Penalties - C,Liability,Non- P&L 
+430103,Accr Franchise Tax - C,Liability,Non- P&L 
+430104,Accr State Sales/Use Tax (M) - NC,Liability,Non- P&L 
+430110,Accr 1099 Withholding - C,Liability,Non- P&L 
+430200,Liability - QST - C,Liability,Non- P&L 
+430201,Liability - GST - C,Liability,Non- P&L 
+430202,Liability - HST - C,Liability,Non- P&L 
+440000,State Corp Income Tax Pay - C,Liability,Non- P&L 
+440001,State Corp Income Tax Pay - NC,Liability,Non- P&L 
+440010,Income Taxes Payable - C,Liability,Non- P&L 
+442900,Income Tax Pay - Tax Consolidation,Liability,Non- P&L 
+444000,Deferred Tax Assets - C,Liability,Non- P&L 
+444001,Deferred Tax Assets - NC,Liability,Non- P&L 
+445000,State Corp Income Tax Rec - C,Liability,Non- P&L 
+445100,Income Taxes Receivable - C,Liability,Non- P&L 
+462000,Capital Expenditure Related Receivables - C,Asset,Non- P&L 
+462100,Capital Expenditure-Related Receivables - NC,Asset,Non- P&L 
+465000,Other Operating Assets,Asset,Non- P&L 
+465050,Non-Trade Receivable Interco (L),Asset,Non- P&L 
+465060,Non-Trade Receivable Third Party (L),Asset,Non- P&L 
+465100,Long Term Other Receivable,Asset,Non- P&L 
+465200,A/R Intercompany International,Asset,Non- P&L 
+465202,Travel Advances Temporary,Asset,Non- P&L 
+465204,Notes Receivable - Employees - NC,Asset,Non- P&L 
+465300,A/R - Miscellaneous,Asset,Non- P&L 
+465301,A/R - Employee Car Loans,Asset,Non- P&L 
+465302,Employee Receivable - VISA Travel,Asset,Non- P&L 
+465303,A/R - Rail Credits Billing,Asset,Non- P&L 
+465306,Disputed items in Concur,Asset,Non- P&L 
+465307,Employee Stock Purchase,Asset,Non- P&L 
+465400,Receivable - QST - C,Asset,Non- P&L 
+465401,Receivable - GST - C,Asset,Non- P&L 
+465402,Receivable - HST - C,Asset,Non- P&L 
+465420,Receivable - Other Tax - C,Asset,Non- P&L 
+466000,Other Operating Debts,Liability,Non- P&L 
+466010,Accr - ME Expenses,Liability,Non- P&L 
+466020,Pension Liability Chester,Liability,Non- P&L 
+466100,Non Current - SEMCOA,Liability,Non- P&L 
+481000,Prepaid Royalties,Asset,Non- P&L 
+486000,Prepaid Miscellaneous,Asset,Non- P&L 
+486002,Prepaid Leases,Asset,Non- P&L 
+486004,Prepaid Minimum Royalties,Asset,Non- P&L 
+486005,Prepaid Deposits,Asset,Non- P&L 
+486006,Prepaid Other,Asset,Non- P&L 
+486007,Prepaid A-line Card,Asset,Non- P&L 
+486010,Prepaid Freight,Asset,Non- P&L 
+486100,Prepaid Insurance,Asset,Non- P&L 
+487000,Deferred Income - C,Liability,Non- P&L 
+491000,Allow for Doubtful Accts,Asset,Non- P&L 
+495000,Write-Down Other Operating Assets - C,Asset,Non- P&L 
+495100,Write-Down Other Operating Assets - NC,Asset,Non- P&L 
+510000,Cash - O/S Checks,Asset,Bank Account
+510001,Cash - Wire Transfers,Asset,Bank Account
+510002,Cash Union Bank,Asset,Bank Account
+510010,Cash - SunTrust A/P,Asset,Bank Account
+510011,Cash - PNC (Delaware),Asset,Bank Account
+510012,Cash -  Nations Bank,Asset,Bank Account
+510020,Bancomer MXN,Asset,Bank Account
+510021,Bancomer USD,Asset,Bank Account
+510022,Bancomer USD,Asset,Bank Account
+510025,Banorte MXN,Asset,Bank Account
+510026,Bancomer EUR,Asset,Bank Account
+510027,Cuenta puente Bancomer,Asset,Bank Account
+510028,Cuenta puente Banorte,Asset,Bank Account
+510200,Cash - A/P Disbursement (L),Asset,Bank Account
+510201,Cash - Payroll Hourly,Asset,Bank Account
+510202,Cash - Payroll Salary,Asset,Bank Account
+510203,Cash - Disbursement Account,Asset,Bank Account
+510204,Cash - Disb Consolidated,Asset,Bank Account
+510205,Cash - Expense Reimbursement,Asset,Bank Account
+510350,Credit Industrial et Comm.  (EURO),Asset,Bank Account
+510400,Cash - Petty Cash,Asset,Bank Account
+510401,Cash - Workfunds,Asset,Bank Account
+510402,Cash - Sun Trust Master,Asset,Bank Account
+510403,Caja chica Jesús Plata,Asset,Bank Account
+510404,Cash - Wachovia,Asset,Bank Account
+510405,Cash - Evergreen,Asset,Bank Account
+510406,Cash - Master Disbursement,Asset,Bank Account
+510407,Cash - First Tennessee Zirconia,Asset,Bank Account
+510408,Cash - First Tennessee TECO,Asset,Bank Account
+510409,Cash - HSBC Zirconia - GBP,Asset,Bank Account
+510410,Cash - HSBC Zirconia - EURO,Asset,Bank Account
+510420,Cash in Transit,Asset,Bank Account
+510425,Cash - Canadian Bank,Asset,Bank Account
+510426,Cash - Royal Bank of Canada - CAD,Asset,Bank Account
+510427,Cash - Royal Bank of Canada - USD,Asset,Bank Account
+510428,Cash - Royal Bank of Canada - CAD - Short Term Disability,Asset,Bank Account
+510430,Cash - SunTrust CAPEX Account,Asset,Bank Account
+510435,Cash - SunTrust OPEX Account,Asset,Bank Account
+510600,Cash - Deposit Trust,Asset,Bank Account
+510700,Bancomer Inversiones,Asset,Bank Account
+510900,Cash - Wells Fargo WC Escrow,Asset,Bank Account
+510950,Cash - Money Market,Asset,Bank Account
+601001,Purch RM - PPV (L),Cost,Operation Expenses
+601002,RM - Intraplant Transfer,Cost,Operation Expenses
+601003,Purchased Crude PPV,Cost,Operation Expenses
+601004,Damage Purchased Grain,Cost,Operation Expenses
+601005,Crude Shrinkage,Cost,Operation Expenses
+601009,Platform VC transfer-Royalties,Cost,Operation Expenses
+601010,Over Burden,Cost,Operation Expenses
+601011,Hauling,Cost,Operation Expenses
+601012,Royalties,Cost,Operation Expenses
+601013,Royalties - Future Sites,Cost,Operation Expenses
+601014,Mining Land Maintenance,Cost,Operation Expenses
+601015,Contract Loading,Cost,Operation Expenses
+601017,Hauling - hourly,Cost,Operation Expenses
+601018,Purchase for Processing - Internal,Cost,Operation Expenses
+601019,Purchase for Processing - External,Cost,Operation Expenses
+601020,Purchase for Processing,Cost,Operation Expenses
+601021,Hauling - Fuel Surcharges,Cost,Operation Expenses
+601022,Hauling - Diesel Hedge,Cost,Operation Expenses
+601023,Hauling-Freight Out,Cost,Operation Expenses
+601024,Hauling- Railcar Rental- ACFX,Cost,Operation Expenses
+601035,Stockpiling Charges,Cost,Operation Expenses
+601036,Crude Warehouse Costs,Cost,Operation Expenses
+601052,Purch RM - Int Transfer,Cost,Operation Expenses
+601053,Purch RM - Crude Stone,Cost,Operation Expenses
+601054,Purch RM - Revaluation,Cost,Operation Expenses
+601056,Purch RM - Lime,Cost,Operation Expenses
+601057,Purchased WIP Material Usage,Cost,Operation Expenses
+601058,Purch RM - MG Crude,Cost,Operation Expenses
+601059,Purch WIP - PPV (M),Cost,Operation Expenses
+601060,Purch RM - Purchase Discounts,Cost,Operation Expenses
+601061,Platform VC Transfer-Standard,Cost,Operation Expenses
+601062,Platform VC Transfer-Variance,Cost,Operation Expenses
+601063,Platform FC Transfer-Standard,Cost,Operation Expenses
+601064,Platform FC Transfer-Variance,Cost,Operation Expenses
+601065,Platform VC Transfer-Overburden Depreciation,Cost,Operation Expenses
+601066,Platform VC Transfer-Depletion,Cost,Operation Expenses
+601067,Platform VC Transfer-RM Inventory Change,Cost,Operation Expenses
+601068,Platfrom FC Transfer-Depreciation,Cost,Operation Expenses
+601069,Platform VC transfer- change in mining provision,Cost,Operation Expenses
+601070,Reclamation,Cost,Operation Expenses
+601072,Non-Capital Reclamation Supplies,Cost,Operation Expenses
+601074,Inter BU Sales (Var),Cost,Operation Expenses
+601075,Inter BU Sales (Fix),Cost,Operation Expenses
+601076,BU Transfer Cost - Fixed,Cost,Operation Expenses
+601077,BU Transfer Cost - Variable,Cost,Operation Expenses
+601078,Allocation Plant General,Cost,Operation Expenses
+601079,Allocated Repacking,Cost,Operation Expenses
+601080,O/S - Contract - Drilling,Cost,Operation Expenses
+601088,Platform FC Transfer - Other,Cost,Operation Expenses
+601089,Inner burden waste,Cost,Operation Expenses
+601090,Inbound Freight - Surcharges,Cost,Operation Expenses
+601091,Fuel Surcharge- Heavy equipment,Cost,Operation Expenses
+601092,Fuel Surcharge - Overburden,Cost,Operation Expenses
+601093,Waste Pond,Cost,Operation Expenses
+601094,Plant Cleanup,Cost,Operation Expenses
+601095,Inbound Freight,Cost,Operation Expenses
+601096,Inbound Freight - Rail,Cost,Operation Expenses
+601097,Inbound Freight - Truck,Cost,Operation Expenses
+601098,Inbound Freight - Ocean,Cost,Operation Expenses
+601100,Energy - Electricity,Cost,Operation Expenses
+601110,Energy - Natural Gas,Cost,Operation Expenses
+601111,Energy - Natural Gas Adjustments,Cost,Operation Expenses
+601115,Energy - Fuel Oil,Cost,Operation Expenses
+601116,Energy - Diesel Fuel Adjustments,Cost,Operation Expenses
+601120,Energy - Propane,Cost,Operation Expenses
+601130,Energy - Water,Cost,Operation Expenses
+601131,Energy - Sewage,Cost,Operation Expenses
+601140,Energy - Gasoline,Cost,Operation Expenses
+601141,Energy - Diesel Fuel,Cost,Operation Expenses
+601149,Energy - Alternative Fuels,Cost,Operation Expenses
+601150,Energy - Coal,Cost,Operation Expenses
+601180,Purch RM - PPV (L) - Diesel,Cost,Operation Expenses
+601181,Purch RM - PPV (M) - Diesel,Cost,Operation Expenses
+601182,Purch RM - PPV (L) - Alternative Fuels,Cost,Operation Expenses
+601183,Purch RM - PPV (M) - Alternative Fuels,Cost,Operation Expenses
+601191,Purch RM - PPV (L) - Coal,Cost,Operation Expenses
+601192,Purch RM - PPV (M) - Coal,Cost,Operation Expenses
+601193,Purch RM - PPV (L) - Coal Freight,Cost,Operation Expenses
+601195,Purch RM - PPV (L) - Gas & Fuels,Cost,Operation Expenses
+601196,Purch RM - PPV (L) - Lime,Cost,Operation Expenses
+601197,Purch RM - PPV (M) - Gas & Fuels,Cost,Operation Expenses
+601198,Purch RM - PPV (M) - Lime,Cost,Operation Expenses
+601200,Maint Supplies - Parts and Matl,Cost,Operation Expenses
+601201,Maint Supplies - Oils and Lubes,Cost,Operation Expenses
+601202,Maint Supplies - Rolling Stock,Cost,Operation Expenses
+601204,COS - Maintenance - Cycle Count,Cost,Operation Expenses
+601205,Maint Supplies - Miscellaneous,Cost,Operation Expenses
+601206,Maint Supplies - Hand Tools,Cost,Operation Expenses
+601207,Maint Supplies - Welding,Cost,Operation Expenses
+601212,Maint Supplies - Land & Building,Cost,Operation Expenses
+601213,Maint Supplies - Mobile/Transport Equip/Vehicles,Cost,Operation Expenses
+601214,Maint Supplies - Railcar,Cost,Operation Expenses
+601215,Maint Supplies - Small Tools/Lab & Office Equip,Cost,Operation Expenses
+601216,Maint Supplies - EHS,Cost,Operation Expenses
+601294,Purch RM - Freight in for Stores,Cost,Operation Expenses
+601295,Purch RM - PPV (L) - Stores,Cost,Operation Expenses
+601297,Purch RM - PPV (M) - Stores,Cost,Operation Expenses
+601298,COS-Inv Chg - Stores,Cost,Operation Expenses
+601299,COS - Inv Chg - Store -Inv Reval,Cost,Operation Expenses
+601500,Packaging Costs - Bags,Cost,Operation Expenses
+601501,Packaging Costs - Pallets,Cost,Operation Expenses
+601502,Packaging Costs - Other Matl,Cost,Operation Expenses
+601510,Packaging Costs - Small Bags,Cost,Operation Expenses
+601520,Packaging Costs - Big Bags Lined,Cost,Operation Expenses
+601521,Packaging Costs - Big Bags Unlined,Cost,Operation Expenses
+601530,Contract Bagging,Cost,Operation Expenses
+601550,COS - Packaging - Cycle Count,Cost,Operation Expenses
+601551,Cycle Count - Small Bags,Cost,Operation Expenses
+601552,Cycle Count - Big Bags,Cost,Operation Expenses
+601553,Cycle Count - Pallets,Cost,Operation Expenses
+601595,Purch RM - PPV (L) - Packaging,Cost,Operation Expenses
+601597,Purch RM - PPV (M) - Packaging,Cost,Operation Expenses
+601598,Packaging Costs - Inventory Reval,Cost,Operation Expenses
+601700,Chemicals - Biocides,Cost,Operation Expenses
+601701,Chemicals - Dispersants,Cost,Operation Expenses
+601702,Chemicals - Flotation,Cost,Operation Expenses
+601703,Chemicals - Grinding Aids,Cost,Operation Expenses
+601704,Chemicals - Coating Aids,Cost,Operation Expenses
+601705,Chemicals - Suspension Aids,Cost,Operation Expenses
+601706,Chemicals - Settling Aids,Cost,Operation Expenses
+601707,Chemicals - Boiler,Cost,Operation Expenses
+601708,Chemicals - Waste Water,Cost,Operation Expenses
+601710,Chemicals - Bleach,Cost,Operation Expenses
+601711,Chemicals - PH Acid,Cost,Operation Expenses
+601712,Chemicals - PH Base,Cost,Operation Expenses
+601713,Chemicals - Coagulent,Cost,Operation Expenses
+601714,Chemicals - Surface Mod,Cost,Operation Expenses
+601715,Chemicals - Detergents,Cost,Operation Expenses
+601716,Chemicals - Liquid Oxygen,Cost,Operation Expenses
+601717,Chemicals - TIO2,Cost,Operation Expenses
+601718,Chemicals - Tank Farm,Cost,Operation Expenses
+601719,Chemicals - Slurry Plant,Cost,Operation Expenses
+601720,Chemicals - Lignin,Cost,Operation Expenses
+601721,Chemicals - CO2,Cost,Operation Expenses
+601722,Chemicals - Intraplant Transfer,Cost,Operation Expenses
+601723,Chemicals - Soda Ash,Cost,Operation Expenses
+601724,Chemicals - Binders,Cost,Operation Expenses
+601725,Chemicals - Pollution Control,Cost,Operation Expenses
+601750,COS - Chemicals - Cycle Count,Cost,Operation Expenses
+601790,Purch RM - PPV (L) - Chemicals - Dispersant,Cost,Operation Expenses
+601791,Purch RM - PPV (L) - Chemicals - Flotation,Cost,Operation Expenses
+601792,Purch RM - PPV (L) - Chemicals - Coating Aids,Cost,Operation Expenses
+601793,Purch RM - PPV (L) - Chemicals - Biocides,Cost,Operation Expenses
+601794,Purch RM - PPV (L) - Chemicals - Other,Cost,Operation Expenses
+601795,Purch RM - PPV (L) - Chemicals,Cost,Operation Expenses
+601796,Purch RM - PPV (L) - CO2,Cost,Operation Expenses
+601797,Purch RM - PPV (M) - Chemicals,Cost,Operation Expenses
+601798,Purch RM - PPV (M) - CO2,Cost,Operation Expenses
+601800,Oper Matls - Screens,Cost,Operation Expenses
+601801,Oper Matls - Grind Med,Cost,Operation Expenses
+601802,Oper Matls - Tires,Cost,Operation Expenses
+601803,Oper Matls - Blast Supplies,Cost,Operation Expenses
+601804,Oper Matls - Lab,Cost,Operation Expenses
+601809,Oper Matls - Other,Cost,Operation Expenses
+601810,Oper Matls - Safety,Cost,Operation Expenses
+601811,Oper Matls - Electrodes,Cost,Operation Expenses
+601815,COS - Consumables - Cycle Count (Electrodes),Cost,Operation Expenses
+601820,Dust Collector Bags,Cost,Operation Expenses
+603100,COS - Inv Chg RM,Cost,Operation Expenses
+603101,COS - Inv Chg Coal,Cost,Operation Expenses
+603110,COS - Crude - Cycle Count,Cost,Operation Expenses
+603111,COS - PO Crude - Cycle Count,Cost,Operation Expenses
+603121,COS-Inv Chg RM-Value Added Mining,Cost,Operation Expenses
+603122,COS - Inv Chg PO RM,Cost,Operation Expenses
+603123,COS - Inv Chg - Stockpiles,Cost,Operation Expenses
+603130,COS - Inv Chg RM - Obsol Parts Res,Cost,Operation Expenses
+603150,COS - Inv Chg RM - Inv Reval,Cost,Operation Expenses
+607000,Purchases For Resale Internal,Cost,Operation Expenses
+607001,Purchases For Resale External,Cost,Operation Expenses
+607002,Purch FG - PPV (L),Cost,Operation Expenses
+607003,PPV - Grain,Cost,Operation Expenses
+607010,Purchased Freight - In (Grain),Cost,Operation Expenses
+608100,Non-Op Cycle IG Invoicing-Staff,Cost,Operation Expenses
+608101,Non-Op Cycle IG Invoicing-Staff (Inter-BA),Cost,Operation Expenses
+610100,Rent Exp - Vehicle Leases,Cost,Operation Expenses
+610101,Rent Exp - Land,Cost,Operation Expenses
+610156,Rent Exp - Buildings,Cost,Operation Expenses
+610160,Rent Exp - Op Equip - ST,Cost,Operation Expenses
+610161,Rent Exp - Op Equip - LT,Cost,Operation Expenses
+610170,Rent Exp - Leased Apartments,Cost,Operation Expenses
+610171,Leases - Computer,Cost,Operation Expenses
+610176,Rent Exp Equip - Maint,Cost,Operation Expenses
+610180,Rail Fleet Management,Cost,Operation Expenses
+610200,Maint & Repair - General,Cost,Operation Expenses
+610201,Maint & Repair - Special Equip,Cost,Operation Expenses
+610202,Maint & Repair - Rolling Stock,Cost,Operation Expenses
+610203,Maint & Repair - MSHA Related,Cost,Operation Expenses
+610222,Maint Matls Trans - Mechnical,Cost,Operation Expenses
+610223,Maint Matls Trans - General,Cost,Operation Expenses
+610236,Contract Services - Maint,Cost,Operation Expenses
+610251,Contract Pit Maint,Cost,Operation Expenses
+610260,Office Equip Maint,Cost,Operation Expenses
+610261,External Maintenance - Land & Building,Cost,Operation Expenses
+610262,External Maintenance - Mobile/Transport Equip/Vehicles,Cost,Operation Expenses
+610263,External Maintenance - Railcar,Cost,Operation Expenses
+610264,External Maintenance - Small Tools/Lab & Office Equip,Cost,Operation Expenses
+610265,External Maintenance - EHS,Cost,Operation Expenses
+610300,Insurance - Auto,Cost,Operation Expenses
+610306,Insurance - General Liability,Cost,Operation Expenses
+610311,Insurance - Marine,Cost,Operation Expenses
+610316,Insurance - Other,Cost,Operation Expenses
+610331,Insurance - Property,Cost,Operation Expenses
+610360,Contract Services - General,Cost,Operation Expenses
+610370,Contract Services - Labor,Cost,Operation Expenses
+610371,Contract Services - Railcar Clean,Cost,Operation Expenses
+610380,Contract Services - Railcar Freight,Cost,Operation Expenses
+610385,Contract Services - Railcar Mech,Cost,Operation Expenses
+610390,Contract Services - Railcar Paint,Cost,Operation Expenses
+610400,Audit - Certification of Financial Statements,Cost,Operation Expenses
+610401,Audit - Other diligences than certification,Cost,Operation Expenses
+610410,Legal,Cost,Operation Expenses
+610411,Intellectual Property (IP) Legal Fees,Cost,Operation Expenses
+610420,Commission Exp,Cost,Operation Expenses
+610421,Commission Exp - IG,Cost,Operation Expenses
+610440,Internal Freight,Cost,Operation Expenses
+610441,Internal Freight - Rail,Cost,Operation Expenses
+610442,Internal Freight - Truck,Cost,Operation Expenses
+610443,Internal Freight - Ocean,Cost,Operation Expenses
+610444,Internal Freight - Surcharges,Cost,Operation Expenses
+610445,Internal Freight - Demurrage,Cost,Operation Expenses
+610450,Internal Freight - Intra Plant,Cost,Operation Expenses
+610455,Freight on Returned Product,Cost,Operation Expenses
+610457,Transfer Cost - Inbound Frt - Rail,Cost,Operation Expenses
+610458,Transfer Cost - Inbound Frt - Truck,Cost,Operation Expenses
+610459,Transfer Cost - Inbound Frt - Ocean,Cost,Operation Expenses
+610460,Transfer Cost - Inbound Frt - Barge,Cost,Operation Expenses
+610465,Freight Expense - Stone Frt,Cost,Operation Expenses
+610466,Handling - Freight Software,Cost,Operation Expenses
+610467,Handling - Freight Audit,Cost,Operation Expenses
+610468,Truck Not Used Fees (aka TONU),Cost,Operation Expenses
+610470,Freight Exp Detent & Demurage,Cost,Operation Expenses
+610471,Freight Exp Detent & Demurage Truck,Cost,Operation Expenses
+610475,Ocean Vessel Demurrage,Cost,Operation Expenses
+610476,Transload Demurrage/Storage,Cost,Operation Expenses
+610477,Dry Run Unrecoverable Freight Expense,Cost,Operation Expenses
+610478,Transload Fees,Cost,Operation Expenses
+610479,Track Lease Expense,Cost,Operation Expenses
+610482,Short Line Rail Fee,Cost,Operation Expenses
+610490,Railcar Lease Acquisition Cost,Cost,Operation Expenses
+610495,Railcar Lease Exit Cost,Cost,Operation Expenses
+610500,Railcar Allocation,Cost,Operation Expenses
+610501,PD (Hopper) Railcar Expense,Cost,Operation Expenses
+610502,Railcar Accrual,Cost,Operation Expenses
+610503,Railcar Rental - Other,Cost,Operation Expenses
+610504,Railcar Rental - ACFX,Cost,Operation Expenses
+610505,Railcar Rental - CRDX,Cost,Operation Expenses
+610506,Box Railcar Expense,Cost,Operation Expenses
+610507,Railcar Rental - GATX,Cost,Operation Expenses
+610508,Railcar Rental - PLCX,Cost,Operation Expenses
+610510,Railcar Rental - UTLX,Cost,Operation Expenses
+610511,Railcar Credits - ACFX,Cost,Operation Expenses
+610512,Railcar Credits - CRDX,Cost,Operation Expenses
+610513,PD (Hopper) Railcar Credits,Cost,Operation Expenses
+610514,Railcar Credits - GATX,Cost,Operation Expenses
+610515,Railcar Credits - PLCX,Cost,Operation Expenses
+610516,Railcar Credits - TARX,Cost,Operation Expenses
+610517,Railcar Credits - UTLX,Cost,Operation Expenses
+610518,Railcar Credits - Other,Cost,Operation Expenses
+610519,Railcar Storage,Cost,Operation Expenses
+610520,Rail Re-Bill Penalty,Cost,Operation Expenses
+610521,Railcar Overload,Cost,Operation Expenses
+610522,Domestic External Freight,Cost,Operation Expenses
+610524,Drayage,Cost,Operation Expenses
+610525,Box Railcar Credits,Cost,Operation Expenses
+610526,Fees - Brokerage,Cost,Operation Expenses
+610530,Fees - Customs/Duty,Cost,Operation Expenses
+610532,Fees - Harbour,Cost,Operation Expenses
+610536,Freight - Intra Plant,Cost,Operation Expenses
+610538,Freight Out,Cost,Operation Expenses
+610539,Freight Out - Misc Chg Code,Cost,Operation Expenses
+610540,Freight Out Break Bulk,Cost,Operation Expenses
+610541,Freight Out Other,Cost,Operation Expenses
+610542,Freight Out Bulk,Cost,Operation Expenses
+610543,Freight Out Air,Cost,Operation Expenses
+610544,Freight Out Container - Ocean,Cost,Operation Expenses
+610545,Freight Out Container - Truck,Cost,Operation Expenses
+610546,Freight Ppd Customers - Rail,Cost,Operation Expenses
+610548,Freight Ppd Customers - Truck,Cost,Operation Expenses
+610549,Freight Out Fuel Surcharge,Cost,Operation Expenses
+610550,Fuel Surcharge,Cost,Operation Expenses
+610552,Handling - Contract,Cost,Operation Expenses
+610553,Fuel Surcharge-Hobby,Cost,Operation Expenses
+610554,Handling - Min Warehouse,Cost,Operation Expenses
+610555,Handling - Contract-Tiles,Cost,Operation Expenses
+610556,Handling - Tanks,Cost,Operation Expenses
+610557,Handling - Contract-Hobby,Cost,Operation Expenses
+610558,Handling - Other,Cost,Operation Expenses
+610560,Handling - Warehouse,Cost,Operation Expenses
+610564,Moisturizing,Cost,Operation Expenses
+610566,Rail Transfer,Cost,Operation Expenses
+610570,Switching,Cost,Operation Expenses
+610576,Vessel Discharge - Slurry,Cost,Operation Expenses
+610577,Fuel Surcharge Expense Del Customers - Rail,Cost,Operation Expenses
+610578,Vessel Discharge - Bulk,Cost,Operation Expenses
+610579,Fuel Surcharge Expense Del Customers - Container,Cost,Operation Expenses
+610580,Wharfage - Slurry,Cost,Operation Expenses
+610581,Fuel Surcharge Expense Del Customers - Truck,Cost,Operation Expenses
+610582,Wharfage - Bulk,Cost,Operation Expenses
+610583,Wharfage - Bulk - Tiles,Cost,Operation Expenses
+610587,Freight Expense Ppd Container - Ocean,Cost,Operation Expenses
+610588,Freight Expense Del Customers - Truck,Cost,Operation Expenses
+610589,Freight Expense Del Customers - Rail,Cost,Operation Expenses
+610591,Freight Exp - COS Chrg Type (L),Cost,Operation Expenses
+610592,Frt Exp - COS Chrg Type Contra (L),Cost,Operation Expenses
+610600,Publicity - Public Relations,Cost,Operation Expenses
+610601,Publicity - Promotional Items,Cost,Operation Expenses
+610611,Publicity - Trade Shows,Cost,Operation Expenses
+610620,Publicity - Sample Exp,Cost,Operation Expenses
+610640,Publicity - Advertising Exp,Cost,Operation Expenses
+610650,Publicity - Contribution Exp,Cost,Operation Expenses
+610660,Environmental,Cost,Operation Expenses
+610710,Customer Claims/Concessions,Cost,Operation Expenses
+610730,Storage,Cost,Operation Expenses
+610733,Toll Produced,Cost,Operation Expenses
+610735,Education/Training,Cost,Operation Expenses
+610740,Consulting,Cost,Operation Expenses
+610741,Computer Outside Services,Cost,Operation Expenses
+610742,Lab Contract Work,Cost,Operation Expenses
+610743,Fees - Group Actuaries Networks,Cost,Operation Expenses
+610745,Waste Removal,Cost,Operation Expenses
+610747,Bank Charges,Cost,Operation Expenses
+610752,Employment Fees,Cost,Operation Expenses
+610755,Hiring Exp - Other,Cost,Operation Expenses
+610757,Payroll - Fees and Maintenance,Cost,Operation Expenses
+610760,Mill Trial Exp,Cost,Operation Expenses
+610762,Plant Trials,Cost,Operation Expenses
+610763,Sub-contracting - General,Cost,Operation Expenses
+610764,Sub-contracting - Railcar Clean,Cost,Operation Expenses
+610765,Sub-contracting - Railcar Lining,Cost,Operation Expenses
+610766,Sub-contracting - Railcar Mech,Cost,Operation Expenses
+610767,Sub-contracting - PD (Hopper) Mech,Cost,Operation Expenses
+610768,Sub-Contractor - Mining,Cost,Operation Expenses
+610769,Subcontracting Cost - Internal Haulage,Cost,Operation Expenses
+610780,Timber Exp - Harvesting,Cost,Operation Expenses
+610782,Timber Exp - Reforestation,Cost,Operation Expenses
+610790,Outside Services - Cleaning,Cost,Operation Expenses
+610791,Outside Services - Guard,Cost,Operation Expenses
+610792,Outside Services - Repacking,Cost,Operation Expenses
+610793,Outside Services - Credit,Cost,Operation Expenses
+610794,Late Fees,Cost,Operation Expenses
+610795,External Fees,Cost,Operation Expenses
+610796,Misc Outside Services,Cost,Operation Expenses
+610801,Travel Exp - General,Cost,Operation Expenses
+610802,Meetings & Conventions,Cost,Operation Expenses
+610803,Travel - Meals,Cost,Operation Expenses
+610804,"Travel - Auto Rental, Gas & Rental Ins",Cost,Operation Expenses
+610805,Travel - Vehicle (Mileage),Cost,Operation Expenses
+610806,Travel - Spousal,Cost,Operation Expenses
+610807,Travel - Airfare,Cost,Operation Expenses
+610808,Travel - Lodging,Cost,Operation Expenses
+610810,Customer Relations,Cost,Operation Expenses
+610811,Dues & Subs,Cost,Operation Expenses
+610813,Maps & Publications,Cost,Operation Expenses
+610814,Non Travel Meals - Training,Cost,Operation Expenses
+610815,Non Travel Meals - Employee,Cost,Operation Expenses
+610816,Non Travel Meals - Coffee & Coke,Cost,Operation Expenses
+610817,Non Travel Meals - Meeting,Cost,Operation Expenses
+610820,Special Entertainment,Cost,Operation Expenses
+610821,Special Events,Cost,Operation Expenses
+610822,Gifts & Hospitality,Cost,Operation Expenses
+610829,Interview Exp,Cost,Operation Expenses
+610830,Hiring Exp - Physical,Cost,Operation Expenses
+610833,Relocation Exp,Cost,Operation Expenses
+610840,Office Equipment,Cost,Operation Expenses
+610841,Office Improvements,Cost,Operation Expenses
+610844,Test Equipment,Cost,Operation Expenses
+610850,Supplies - Office,Cost,Operation Expenses
+610851,Purchasing Card,Cost,Operation Expenses
+610855,Telephone Exp,Cost,Operation Expenses
+610856,Video Exp,Cost,Operation Expenses
+610858,Communications - Dataline,Cost,Operation Expenses
+610859,Communications - Maint,Cost,Operation Expenses
+610860,Postage Exp,Cost,Operation Expenses
+610861,Express Mail,Cost,Operation Expenses
+610862,Courier Exp,Cost,Operation Expenses
+610865,Non-rental Vehicle Gas & Maint,Cost,Operation Expenses
+610870,Computer Hardware,Cost,Operation Expenses
+610871,Computer Supplies,Cost,Operation Expenses
+610872,Hardware Maint,Cost,Operation Expenses
+610873,Computer Software,Cost,Operation Expenses
+610874,Computer Training & Supplies,Cost,Operation Expenses
+610875,Micro Hardware Maint,Cost,Operation Expenses
+610876,Software Maint,Cost,Operation Expenses
+610877,Lab Equipment,Cost,Operation Expenses
+610879,Lab Supplies,Cost,Operation Expenses
+610880,Lining Containers,Cost,Operation Expenses
+610881,Water,Cost,Operation Expenses
+610882,Sewage,Cost,Operation Expenses
+610890,Budget Adjustments,Cost,Operation Expenses
+610891,Admin - Rounding,Cost,Operation Expenses
+619001,Leases<12 Mths-A11 Equip Mining Extraction,Cost,Leases
+619002,Leases<12 Mths-A12 Equip Mining Transport,Cost,Leases
+619003,Leases<12 Mths-A13 Equip Mining Other,Cost,Leases
+619004,Leases<12 Mths-A20 Equip Industrial Fixed,Cost,Leases
+619005,Leases<12 Mths-A21 Equip Industrial Vessel,Cost,Leases
+619006,Leases<12 Mths-A22 Equip Industrial Railcar,Cost,Leases
+619007,Leases<12 Mths-A23 Equip Industrial Truck,Cost,Leases
+619008,Leases<12 Mths-A24 Equip Industrial Forklift,Cost,Leases
+619009,Leases<12 Mths-A25 Equip Indust Other Mob,Cost,Leases
+619010,Leases<12 Mths-A30 Equip Passenger Car,Cost,Leases
+619011,Leases<12 Mths-A41 Equip Administrative,Cost,Leases
+619012,Leases<12 Mths-B10 Prop Land Mining,Cost,Leases
+619013,Leases<12 Mths-B11 Prop Land Non mining,Cost,Leases
+619014,Leases<12 Mths-B20 Prop Plant,Cost,Leases
+619015,Leases<12 Mths-B30 Prop Warehouse,Cost,Leases
+619016,Leases<12 Mths-B40 Prop Housing,Cost,Leases
+619017,Leases<12 Mths-B50 Prop Administrative,Cost,Leases
+619018,Leases<12 Mths-A11 Equip Mining Extraction (M08 Rcls),Cost,Leases
+619019,Leases<12 Mths-A12 Equip Mining Transport (M08 Rcls),Cost,Leases
+619020,Leases<12 Mths-A13 Equip Mining Other (M08 Rcls),Cost,Leases
+619101,Leases>12 Mths Anaplan Fixed -A11 Equip Mining Extract,Cost,Leases
+619102,Leases>12 Mths Anaplan Fixed -A12 Equip Mining Trans,Cost,Leases
+619103,Leases>12 Mths Anaplan Fixed -A13 Equip Mining Other,Cost,Leases
+619104,Leases>12 Mths Anaplan Fixed -A20 Equip Indust Fixed,Cost,Leases
+619105,Leases>12 Mths Anaplan Fixed -A21 Equip Indust Vessel,Cost,Leases
+619106,Leases>12 Mths Anaplan Fixed -A22 Equip Indust Railcar,Cost,Leases
+619107,Leases>12 Mths Anaplan Fixed -A23 Equip Indust Truck,Cost,Leases
+619108,Leases>12 Mths Anaplan Fixed -A24 Equip Indust Forklift,Cost,Leases
+619109,Leases>12 Mths Anaplan Fixed -A25 Equip Other Mob,Cost,Leases
+619110,Leases>12 Mths Anaplan Fixed -A30 Equip Pass Car,Cost,Leases
+619111,Leases>12 Mths Anaplan Fixed -A41 Equip Admin,Cost,Leases
+619112,Leases>12 Mths Anaplan Fixed -B10 Prop Land Mining,Cost,Leases
+619113,Leases>12 Mths Anaplan Fixed -B11 Prop Land Nonming,Cost,Leases
+619114,Leases>12 Mths Anaplan Fixed -B20 Prop Plant,Cost,Leases
+619115,Leases>12 Mths Anaplan Fixed -B30 Prop Warehouse,Cost,Leases
+619116,Leases>12 Mths Anaplan Fixed -B40 Prop Housing,Cost,Leases
+619117,Leases>12 Mths Anaplan Fixed -B50 Prop Admin,Cost,Leases
+619118,Leases>12 Mths Anaplan Fixed -A11 Mining Extract (M08 Rcls),Cost,Leases
+619119,Leases>12 Mths Anaplan Fixed -A12 Mining Trans (M08 Rcls),Cost,Leases
+619120,Leases>12 Mths Anaplan Fixed -A13 Mining Other (M08 Rcls),Cost,Leases
+619121,Leases>12 Mths Anaplan Fixed -B30 Prop Warehouse (M08 Rcls),Cost,Leases
+619200,Lease Liabilities Amortization - Variable Costs,Cost,Leases
+619201,Leases>12 Mths Anaplan Var -A11 Equip Mining Extract,Cost,Leases
+619202,Leases>12 Mths Anaplan Var -A12 Equip Mining Trans,Cost,Leases
+619203,Leases>12 Mths Anaplan Var -A13 Equip Mining Other,Cost,Leases
+619204,Leases>12 Mths Anaplan Var -A20 Equip Indust Fixed,Cost,Leases
+619205,Leases>12 Mths Anaplan Var -A21 Equip Indust Vessel,Cost,Leases
+619206,Leases>12 Mths Anaplan Var -A22 Equip Indust Railcar,Cost,Leases
+619207,Leases>12 Mths Anaplan Var -A23 Equip Indust Truck,Cost,Leases
+619208,Leases>12 Mths Anaplan Var -A24 Equip Indust Forklift,Cost,Leases
+619209,Leases>12 Mths Anaplan Var -A25 Equip Other Mob,Cost,Leases
+619210,Leases>12 Mths Anaplan Var -A30 Equip Pass Car,Cost,Leases
+619211,Leases>12 Mths Anaplan Var -A41 Equip Admin,Cost,Leases
+619212,Leases>12 Mths Anaplan Var -B10 Prop Land Mining,Cost,Leases
+619213,Leases>12 Mths Anaplan Var -B11 Prop Land Nonming,Cost,Leases
+619214,Leases>12 Mths Anaplan Var -B20 Prop Plant,Cost,Leases
+619215,Leases>12 Mths Anaplan Var -B30 Prop Warehouse,Cost,Leases
+619216,Leases>12 Mths Anaplan Var -B40 Prop Housing,Cost,Leases
+619217,Leases>12 Mths Anaplan Var -B50 Prop Admin,Cost,Leases
+619220,Lease Liabilities Amortization - Fixed Costs,Cost,Leases
+619221,Leases>12 Mths Anaplan Var -A11 Mining Extract (M08 Rcls),Cost,Leases
+619222,Leases>12 Mths Anaplan Var -A12 Mining Trans (M08 Rcls),Cost,Leases
+619223,Leases>12 Mths Anaplan Var -A13 Mining Other (M08 Rcls),Cost,Leases
+619224,Leases>12 Mths Anaplan Var -B30 Prop Warehouse (M08 Rcls),Cost,Leases
+619230,Lease Liabilities Amortization - Overheads,Cost,Leases
+619300,Net Change in Lease Liabilities,Cost,Leases
+619301,Leases>12 Mths Anaplan Svc -A11 Equip Mining Extract,Cost,Leases
+619302,Leases>12 Mths Anaplan Svc -A12 Equip Mining Trans,Cost,Leases
+619303,Leases>12 Mths Anaplan Svc -A13 Equip Mining Other,Cost,Leases
+619304,Leases>12 Mths Anaplan Svc -A20 Equip Indust Fixed,Cost,Leases
+619305,Leases>12 Mths Anaplan Svc -A21 Equip Indust Vessel,Cost,Leases
+619306,Leases>12 Mths Anaplan Svc -A22 Equip Indust Railcar,Cost,Leases
+619307,Leases>12 Mths Anaplan Svc -A23 Equip Indust Truck,Cost,Leases
+619308,Leases>12 Mths Anaplan Svc -A24 Equip Indust Forklift,Cost,Leases
+619309,Leases>12 Mths Anaplan Svc -A25 Equip Other Mob,Cost,Leases
+619310,Leases>12 Mths Anaplan Svc -A30 Equip Pass Car,Cost,Leases
+619311,Leases>12 Mths Anaplan Svc -A41 Equip Admin,Cost,Leases
+619312,Leases>12 Mths Anaplan Svc -B10 Prop Land Mining,Cost,Leases
+619313,Leases>12 Mths Anaplan Svc -B11 Prop Land Nonming,Cost,Leases
+619314,Leases>12 Mths Anaplan Svc -B20 Prop Plant,Cost,Leases
+619315,Leases>12 Mths Anaplan Svc -B30 Prop Warehouse,Cost,Leases
+619316,Leases>12 Mths Anaplan Svc -B40 Prop Housing,Cost,Leases
+619317,Leases>12 Mths Anaplan Svc -B50 Prop Admin,Cost,Leases
+619318,Leases>12 Mths Anaplan Svc -A11 Mining Extract (M08 Rcls),Cost,Leases
+619319,Leases>12 Mths Anaplan Svc -A12 Mining Trans (M08 Rcls),Cost,Leases
+619320,Leases>12 Mths Anaplan Svc -A13 Mining Other (M08 Rcls),Cost,Leases
+619321,Leases>12 Mths Anaplan Svc -B30 Prop Warehouse (M08 Rcls),Cost,Leases
+619351,Leases>12 Months-Prepay-A11 Equip Mining Extract,Cost,Leases
+619352,Leases>12 Months-Prepay-A12 Equip Mining Trans,Cost,Leases
+619353,Leases>12 Months-Prepay-A13 Equip Mining Other,Cost,Leases
+619354,Leases>12 Months-Prepay-A20 Equip Indust Fixed,Cost,Leases
+619355,Leases>12 Months-Prepay-A21 Equip Indust Vessel,Cost,Leases
+619356,Leases>12 Months-Prepay-A22 Equip Indust Railcar,Cost,Leases
+619357,Leases>12 Months-Prepay-A23 Equip Indust Truck,Cost,Leases
+619358,Leases>12 Months-Prepay-A24 Equip Indust Forklift,Cost,Leases
+619359,Leases>12 Months-Prepay-A25 Equip Other Mob,Cost,Leases
+619360,Leases>12 Months-Prepay-A30 Equip Pass Car,Cost,Leases
+619361,Leases>12 Months-Prepay-A41 Equip Admin,Cost,Leases
+619362,Leases>12 Months-Prepay-B10 Prop Land Mining,Cost,Leases
+619363,Leases>12 Months-Prepay-B11 Prop Land Nonming,Cost,Leases
+619364,Leases>12 Months-Prepay-B20 Prop Plant,Cost,Leases
+619365,Leases>12 Months-Prepay-B30 Prop Warehouse,Cost,Leases
+619366,Leases>12 Months-Prepay-B40 Prop Housing,Cost,Leases
+619367,Leases>12 Months-Prepay-B50 Prop Admin,Cost,Leases
+619371,Leases>12 Months-Prepay-A11 Equip Mining Extract (M08 Rcls),Cost,Leases
+619372,Leases>12 Months-Prepay-A12 Equip Mining Trans (M08 Rcls),Cost,Leases
+619373,Leases>12 Months-Prepay-A13 Equip Mining Other (M08 Rcls),Cost,Leases
+619374,Leases>12 Months-Prepay-B30 Prop Warehouse (M08 Rcls),Cost,Leases
+619400,Net Change in Right-of-Use Assets,Cost,Leases
+619401,Leases>12 Mths-Out of Scope Entity-Low Mat-A11 Mng Extract,Cost,Leases
+619402,Leases>12 Mths-Out of Scope Entity-Low Mat-A12 Mining Trans,Cost,Leases
+619403,Leases>12 Mths-Out of Scope Entity-Low Mat-A13 Mining Other,Cost,Leases
+619404,Leases>12 Mths-Out of Scope Entity-Low Mat-A20 Indust Fixed,Cost,Leases
+619405,Leases>12 Mths-Out of Scope Entity-Low Mat-A21 Indst Vessel,Cost,Leases
+619406,Leases>12 Mths-Out of Scope Entity-Low Mat-A22 Indst Railcar,Cost,Leases
+619407,Leases>12 Mths-Out of Scope Entity-Low Mat-A23 Indust Truck,Cost,Leases
+619408,Leases>12 Mths- In & Out of Scope-Low Mat-A24 Forklift,Cost,Leases
+619409,Leases>12 Mths-Out of Scope Entity-Low Mat-A25 Other Mob,Cost,Leases
+619410,Leases>12 Mths- In & Out of Scope-Low Mat-A30 Pass Car,Cost,Leases
+619411,Leases>12 Mths- In & Out of Scope-Low Mat-A41 Equip Admin,Cost,Leases
+619412,Leases>12 Mths-Out of Scope Entity-Low Mat-B10 Land Mining,Cost,Leases
+619413,Leases>12 Mths-Out of Scope Entity-Low Mat-B11 Land Nonmning,Cost,Leases
+619414,Leases>12 Mths-Out of Scope Entity-Low Mat-B20 Prop Plant,Cost,Leases
+619415,Leases>12 Mths-Out of Scope Entity-Low Mat-B30 Prp Warehouse,Cost,Leases
+619416,Leases>12 Mths-Out of Scope Entity-Low Mat-B40 Prop Housing,Cost,Leases
+619417,Leases>12 Mths-Out of Scope Entity-Low Mat-B50 Prop Adm,Cost,Leases
+619501,Leases>12 Mths Assets<5kEUR-A11 Equip Mining Extract,Cost,Leases
+619502,Leases>12 Mths Assets<5kEUR-A12 Equip Mining Trans,Cost,Leases
+619503,Leases>12 Mths Assets<5kEUR-A13 Equip Mining Other,Cost,Leases
+619504,Leases>12 Mths Assets<5kEUR-A20 Equip Indust Fixed,Cost,Leases
+619509,Leases>12 Mths Assets<5kEUR-A25 Equip Other Mob,Cost,Leases
+619511,Leases>12 Mths Assets<5kEUR-A41 Equip Admin,Cost,Leases
+628000,Bank Service Fees,Cost,Bank Fees
+630000,Taxes - Sales and Use (L),Cost,Tax
+630001,Taxes - Sales and Use (M),Cost,Tax
+630100,Taxes - Property,Cost,Tax
+630110,Taxes - Other,Cost,Tax
+630200,Taxes - Franchise,Cost,Tax
+630300,Taxes - Penalties,Cost,Tax
+630410,Taxes - State Fuel,Cost,Tax
+641010,Wages & Salaries,Cost,Payroll
+641011,Wages & Salaries Hourly Operating,Cost,Payroll
+641012,Wages & Salaries Hourly Maint,Cost,Payroll
+641013,Wages & Salaries Non Exempt,Cost,Payroll
+641014,Wages & Salaries Exempt,Cost,Payroll
+641015,Wages & Salaries Non Exempt Maint,Cost,Payroll
+641016,Wages & Salaries Exempt Maint,Cost,Payroll
+641020,Overtime,Cost,Payroll
+641021,Overtime Hourly Operating,Cost,Payroll
+641022,Overtime Hourly Maint,Cost,Payroll
+641023,Overtime Non Exempt,Cost,Payroll
+641025,Overtime Non Exempt Maint,Cost,Payroll
+641031,Spot Awards Hourly Operating,Cost,Payroll
+641032,Spot Awards Hourly Maint,Cost,Payroll
+641033,Spot Awards Non Exempt,Cost,Payroll
+641034,Spot Awards Exempt,Cost,Payroll
+641035,Spot Awards Non Exempt Maint,Cost,Payroll
+641036,Spot Awards Exempt Maint,Cost,Payroll
+641040,Vacation,Cost,Payroll
+641050,Relocation Exp,Cost,Payroll
+641051,Relocation Exp Hourly Operating,Cost,Payroll
+641053,Relocation Exp Non Exempt,Cost,Payroll
+641054,Relocation Exp Exempt,Cost,Payroll
+641060,Other Payroll,Cost,Payroll
+641061,Other Payroll Hourly Operating,Cost,Payroll
+641062,Other Payroll Hourly Maint,Cost,Payroll
+641063,Other Payroll Non Exempt,Cost,Payroll
+641064,Other Payroll Exempt,Cost,Payroll
+641066,Other Payroll Exempt Maint,Cost,Payroll
+641070,Pension Costs,Cost,Payroll
+641071,Pension Costs Hourly Operating,Cost,Payroll
+641072,Pension Costs Hourly Maint,Cost,Payroll
+641073,Pension Costs Non Exempt,Cost,Payroll
+641074,Pension Costs Exempt,Cost,Payroll
+641075,Pension Costs Non Exempt Maint,Cost,Payroll
+641076,Pension Costs Exempt Maint,Cost,Payroll
+641077,Pension Costs Unfunded,Cost,Payroll
+641080,Contributions to Defined Contribution Plans,Cost,Payroll
+641090,Pension Cost Unfunded ERP,Cost,Payroll
+641091,Employee Relations,Cost,Payroll
+641110,FICA,Cost,Payroll
+641111,FICA Hourly Operating,Cost,Payroll
+641112,FICA Hourly Maint,Cost,Payroll
+641113,FICA Non Exempt,Cost,Payroll
+641114,FICA Exempt,Cost,Payroll
+641115,FICA Non Exempt Maint,Cost,Payroll
+641116,FICA Exempt Maint,Cost,Payroll
+641121,FUTA Hourly Operating,Cost,Payroll
+641122,FUTA Hourly Maint,Cost,Payroll
+641123,FUTA Non Exempt,Cost,Payroll
+641124,FUTA Exempt,Cost,Payroll
+641125,FUTA Non Exempt Maint,Cost,Payroll
+641126,FUTA Exempt Maint,Cost,Payroll
+641130,SUI,Cost,Payroll
+641131,SUI Hourly Operating,Cost,Payroll
+641132,SUI Hourly Maint,Cost,Payroll
+641133,SUI Non Exempt,Cost,Payroll
+641134,SUI Exempt,Cost,Payroll
+641135,SUI Non Exempt Maint,Cost,Payroll
+641136,SUI Exempt Maint,Cost,Payroll
+641140,401k Matching,Cost,Payroll
+641141,401k Matching Hourly Operating,Cost,Payroll
+641142,401k Matching Hourly Maint,Cost,Payroll
+641143,401k Matching Non Exempt,Cost,Payroll
+641144,401k Matching Exempt,Cost,Payroll
+641145,401k Matching Non Exempt Maint,Cost,Payroll
+641146,401k Matching Exempt Maint,Cost,Payroll
+641150,Workers  Comp,Cost,Payroll
+641151,Workers  Comp Hourly Operating,Cost,Payroll
+641152,Workers  Comp Hourly Maint,Cost,Payroll
+641153,Workers  Comp Non Exempt,Cost,Payroll
+641154,Workers  Comp Exempt,Cost,Payroll
+641155,Workers  Comp Non Exempt Maint,Cost,Payroll
+641156,Workers  Comp Exempt Maint,Cost,Payroll
+641159,Workers Compensation Claims,Cost,Payroll
+641160,IAS 19 Benefits,Cost,Payroll
+641161,IAS 19 Benefits Hourly Operating,Cost,Payroll
+641162,IAS 19 Benefits Hourly Maint,Cost,Payroll
+641163,IAS 19 Benefits Non Exempt,Cost,Payroll
+641164,IAS 19 Benefits Exempt,Cost,Payroll
+641165,IAS 19 Benefits Non Exempt Maint,Cost,Payroll
+641166,IAS 19 Benefits Exempt Maint,Cost,Payroll
+641170,Group Medical,Cost,Payroll
+641171,Group Medical Hourly Operating,Cost,Payroll
+641172,Group Medical Hourly Maint,Cost,Payroll
+641173,Group Medical Non Exempt,Cost,Payroll
+641174,Group Medical Exempt,Cost,Payroll
+641175,Group Medical Non Exempt Maint,Cost,Payroll
+641176,Group Medical Exempt Maint,Cost,Payroll
+641180,ST Disability,Cost,Payroll
+641190,Invest Contr Expense,Cost,Payroll
+641191,Invest Contr Hourly Operating,Cost,Payroll
+641192,Invest Contr Hourly Maint,Cost,Payroll
+641193,Invest Contr Non Exempt,Cost,Payroll
+641194,Invest Contr Exempt,Cost,Payroll
+641195,Invest Contr Non Exempt Maint,Cost,Payroll
+641196,Invest Contr Exempt Maint,Cost,Payroll
+641211,Bonus Exp Hourly Operating,Cost,Payroll
+641212,Bonus Exp Hourly Maint,Cost,Payroll
+641213,Bonus Exp Non Exempt,Cost,Payroll
+641214,Bonus Exp Exempt,Cost,Payroll
+641215,Bonus Exp Non Exempt Maint,Cost,Payroll
+641216,Bonus Exp Exempt Maint,Cost,Payroll
+641300,Auto Allowance,Cost,Payroll
+641400,Education & Training,Cost,Payroll
+641410,Tuition Reimbursement,Cost,Payroll
+641999,Maintenance Allocation Offset,Cost,Payroll
+645100,Contributions to Defined Benefit Plans - Current Op Income,Cost,Payroll
+650000,Other Fees & Chg - Licenses/Permits,Cost,Misc. Expenses 
+650001,Fees & Charges - MSHA Related,Cost,Misc. Expenses 
+650100,Loss Doubtful A/C-Bad Debt Exp,Cost,Misc. Expenses 
+650200,Group Fees - IMERYS Fees,Cost,Misc. Expenses 
+650250,Imerys Fees - Regional,Cost,Misc. Expenses 
+650300,Business Group Costs,Cost,Misc. Expenses 
+650301,Wash Account,Cost,Misc. Expenses 
+650310,Other Variable Costs-InterBU Chg,Cost,Misc. Expenses 
+650316,Employee Recreation,Cost,Misc. Expenses 
+650490,Other Oper - Misc Exp,Cost,Misc. Expenses 
+650491,Miscellaneous Income - Special,Cost,Misc. Expenses 
+650492,Group Royalties Income - Inter BA,Cost,Misc. Expenses 
+650493,Group Royalties Income - Intra BA,Cost,Misc. Expenses 
+650500,Other Oper - Scrap,Cost,Misc. Expenses 
+650510,Clearing Account,Cost,Misc. Expenses 
+650601,Non Oper Intra Grp Invoice Ex Staff,Cost,Misc. Expenses 
+650700,Imerys-Innovation Royalties,Cost,Misc. Expenses 
+650710,S&T and IP Fees,Cost,Misc. Expenses 
+654350,Transfer of IT costs - Current Operating Income,Cost,Misc. Expenses 
+654360,Transfer of Group Services Costs - COI,Cost,Misc. Expenses 
+658000,Intergroup Recharge - Exp,Cost,Misc. Expenses 
+658100,Recharges between cost centers,Cost,Misc. Expenses 
+658300,Intergroup Recharge Exp - Inter BA,Cost,Misc. Expenses 
+658400,Intra-BA Recharges,Cost,Misc. Expenses 
+661200,Interests on Loans,Cost,Interest
+661900,Interests on Lease Liabilities,Cost,Interest
+662000,Interest on Financial Debts - Ext,Cost,Interest
+662010,Interest Exp - Other,Cost,Interest
+662015,Actuary Fees for Closed Plans - Financial,Cost,Interest
+662016,Other Financial Exp,Cost,Interest
+662017,Financial Exp on Financial Instr,Cost,Interest
+662050,Interest on Financial Debts - Int,Cost,Interest
+663100,Pension Expense - Financial,Cost,Pension
+665100,Contributions to Defined Benefit Plans - Closed Plans,Cost,Pension
+666000,Foreign Exchange Losses,Cost,FX Difference
+666001,Unrealized Foreign Exchange Losses,Cost,FX Difference
+668400,Factoring Interests and Fees,Cost,FX Difference
+668600,Fees - Group Actuaries Networks - Closed Plans,Cost,FX Difference
+670000,Transaction Costs,Cost,Cost
+671000,Platform Overhead Transfer-Standard,Cost,Cost
+672000,Platform Overhead Transfer-Variance,Cost,Cost
+673000,Platform Overhead Revenue-Standard,Cost,Cost
+674000,Platform Overhead Revenue-Variance,Cost,Cost
+675000,NBV from Sale of Fixed Assets,Cost,Cost
+675100,Disposals - Intangible Assets,Cost,Cost
+676000,Except Charge on Invest Securities,Cost,Cost
+677510,Carrying Amount Intangible Asset Disposals - Other Op Income,Cost,Cost
+677520,Carrying Amount PPE Disposals - Other Op Income,Cost,Cost
+678000,Other Exceptional Charges,Cost,Misc. Expenses 
+678001,Other Operating Expenses-Other Operating Expenses non IG,Cost,Misc. Expenses 
+678002,Other Operating Expenses-Other non-current operation exp IG,Cost,Misc. Expenses 
+678003,Other Operating Expenses-Other non-curr operation exp non IG,Cost,Misc. Expenses 
+678004,Other Operating Expenses-Innovation Royalties,Cost,Misc. Expenses 
+678005,Other Operating Expenses-Division Fees,Cost,Misc. Expenses 
+678006,Other Operating Expenses-BU Fees,Cost,Misc. Expenses 
+678007,Other Operating Expenses-Cost Sharing Allocation,Cost,Misc. Expenses 
+678008,Other Operating Expenses-Legal,Cost,Misc. Expenses 
+678010,Discontinued Operations,Cost,Misc. Expenses 
+678011,Guarantee Fees (expense),Cost,Misc. Expenses 
+678020,Graduate Program Expense,Cost,Misc. Expenses 
+678200,Loss on Merger,Cost,Misc. Expenses 
+678420,Imerys fees (other),Cost,Misc. Expenses 
+678425,Transfer of Group Servies costs - Other,Cost,Misc. Expenses 
+678430,S&T and IP Fees - Other,Cost,Misc. Expenses 
+678431,Imertech fees (expense),Cost,Misc. Expenses 
+678450,Transfer of IT costs - Other Operating Income,Cost,Misc. Expenses 
+678460,Shared Services Center fees (expense),Cost,Misc. Expenses 
+678461,Reinvoicing Group Services (expense),Cost,Misc. Expenses 
+678462,CAR Cluster fees (expense),Cost,Misc. Expenses 
+678463,Intragroup commissions (expense),Cost,Misc. Expenses 
+681100,Depletion,Cost,Misc. Expenses 
+681200,Depreciation,Cost,Misc. Expenses 
+681300,Amortization - Intangibles,Cost,Misc. Expenses 
+681400,Depreciation - Overburden,Cost,Misc. Expenses 
+681450,Increase Provision Reclamation,Cost,Misc. Expenses 
+681451,Increase Provision Reclamation - Variable (M08),Cost,Misc. Expenses 
+681510,Inc in Prov (COI) Dismantling,Cost,Misc. Expenses 
+681520,Inc in Prov (COI) Environmental,Cost,Misc. Expenses 
+681530,Inc in Prov (COI) Restructionation cost,Cost,Misc. Expenses 
+681540,Inc in Prov (COI) Litigation & Claims,Cost,Misc. Expenses 
+681550,Inc in Prov (COI) Warranties,Cost,Misc. Expenses 
+681910,Right-of-Use Assets Depreciation - Variable Costs,Cost,Misc. Expenses 
+681920,Increase Depreciation Right-of-Use Assets - Current Operatin,Cost,Misc. Expenses 
+681930,Increase Depreciation Right-of-Use Assets - Current Operatin,Cost,Misc. Expenses 
+682150,Incr Prov for Risk & Chgs Op Margin,Cost,Misc. Expenses 
+682170,Incr Write-Down Other Assets Op Mar,Cost,Misc. Expenses 
+682300,Incr Prov for Inventory - LCM,Cost,Misc. Expenses 
+682301,Incr Prov for Inventory - Variable (M08),Cost,Misc. Expenses 
+682510,Change in Spare Parts Inventory,Cost,Misc. Expenses 
+682520,Change in Merchandise Inventory,Cost,Misc. Expenses 
+682530,Change in WIP/FG Inventory,Cost,Misc. Expenses 
+682540,Change in RM Inventory,Cost,Misc. Expenses 
+682550,Change in Energy Inventory,Cost,Misc. Expenses 
+682560,Change in Chemical Inventory,Cost,Misc. Expenses 
+682580,Change in Packaging Inventory,Cost,Misc. Expenses 
+682610,Offset Change in Spare Parts Inv,Cost,Misc. Expenses 
+682620,Offset Change in Merchandise Inv,Cost,Misc. Expenses 
+682630,Offset Change in WIP/FG Inv,Cost,Misc. Expenses 
+682640,Offset Change in RM Inv,Cost,Misc. Expenses 
+682650,Offset Change in Energy Inventory,Cost,Misc. Expenses 
+682660,Offset Change in Chemical Inventory,Cost,Misc. Expenses 
+682680,Offset Change in Packaging Inv,Cost,Misc. Expenses 
+682850,Other Exp Covered by Provisions,Cost,Misc. Expenses 
+682851,Other Expenses Covered by Provisions - Restoration,Cost,Misc. Expenses 
+682852,Other Expenses Covered by Provisions - Dismantling,Cost,Misc. Expenses 
+682853,Other Expenses Covered by Provisions - Environment,Cost,Misc. Expenses 
+682854,Other Expenses Covered by Provisions - Restructuration cost,Cost,Misc. Expenses 
+682855,Other Expenses Covered by Provisions - Legal,Cost,Misc. Expenses 
+682861,Other Exp Covered by Write Down,Cost,Misc. Expenses 
+686600,Increase Write-Down (Assets) - Financial Income (loss),Cost,FA Expenses
+686700,Unwinding of Prov Risks & Chgs Fin,Cost,FA Expenses
+687500,Inc Deferred Tax Prov - Oth Op Inc,Cost,FA Expenses
+687600,Impairment Losses Intang Assets and PPE - Other Op Income,Cost,FA Expenses
+687610,Increase Write-Down (Assets) - Other Op Income,Cost,FA Expenses
+687900,Amortization - Goodwill,Cost,FA Expenses
+688000,Increases in Exceptional Provisions,Cost,Op. Income
+688001,Increase in Provisions - Other Op Income - Restoration,Cost,Op. Income
+688002,Increase in Provisions - Other Op Income - Dismantling,Cost,Op. Income
+688003,Increase in Provisions - Other Op Income - Environment,Cost,Op. Income
+688004,Increase in Provisions - Other Op Income - Restructuring,Cost,Op. Income
+688005,Increase in Provisions - Other Op Income - Legal,Cost,Op. Income
+695000,Income Tax on Oper Margin & Fin Inc,Revenue,Tax
+695001,Income Tax on Curr Inc-State,Revenue,Tax
+695002,Income Tax on Other Oper Income,Revenue,Tax
+696000,Deferred Tax on Oper Marg & Fin Inc,Revenue,Tax
+696002,Deferred Tax on Other Oper Income,Revenue,Tax
+701000,Sales - Finished Goods (L),Revenue,Revenue 
+701001,Sales - Finished Goods  (M),Revenue,Revenue 
+701100,Sales - Energy Surcharges (L),Revenue,Revenue 
+701101,Sales - Energy Surcharges (M),Revenue,Revenue 
+701150,Resale Merch Acq frm Group Entities,Revenue,Revenue 
+701151,Resale Merch Acq frm Group Entities (M),Revenue,Revenue 
+701200,Sales - Packaging Revenue (L),Revenue,Revenue 
+701201,Sales - Packaging Revenue (M),Revenue,Revenue 
+701600,Sales - Inflation Surcharge,Revenue,Revenue 
+701650,Sales - Chemicals Surcharge,Revenue,Revenue 
+701700,Sales - Discounts (L),Revenue,Revenue 
+701701,Sales - Discounts (M),Revenue,Revenue 
+701800,Sales - Returns & Allowances,Revenue,Revenue 
+701850,Sales - Short Pays,Revenue,Revenue 
+701860,Sales - Rebates,Revenue,Revenue 
+702000,Sales - Other Revenue (L),Revenue,Revenue 
+702100,Sales - By Products,Revenue,Revenue 
+706100,Sales/Services - Commercial,Revenue,Revenue 
+706101,Sales/Services - Commissions,Revenue,Revenue 
+706200,Sales/Services - Rental Income,Revenue,Revenue 
+706300,Sales/Services - Industrial,Revenue,Revenue 
+706400,Freight Revenue (L),Revenue,Revenue 
+706401,Freight Revenue (M),Revenue,Revenue 
+706405,Freight Revenue Other (L),Revenue,Revenue 
+706406,Freight Revenue Other (M),Revenue,Revenue 
+706410,Freight Revenue Fuel Surcharge,Revenue,Revenue 
+706411,Freight Revenue Fuel Surcharge (M),Revenue,Revenue 
+706417,Fuel Surcharge Revenue Del Customers - Rail,Revenue,Revenue 
+706418,Fuel Surcharge Revenue Del Customers - Truck,Revenue,Revenue 
+706419,Fuel Surcharge Revenue Del Customers - Container,Revenue,Revenue 
+706420,Freight Revenue Rail (L),Revenue,Revenue 
+706421,Freight Revenue Rail (M),Revenue,Revenue 
+706430,Freight Revenue Truck (L),Revenue,Revenue 
+706431,Freight Revenue Truck (M),Revenue,Revenue 
+706438,Freight Revenue Recover Transload Fees,Revenue,Revenue 
+706439,Freight Revenue Demurrage_Transload or Warehouse,Revenue,Revenue 
+706440,Freight Revenue Ocean Cont (L),Revenue,Revenue 
+706441,Freight Revenue Ocean Cont (M),Revenue,Revenue 
+706445,Freight Revenue Ppd Container - Ocean,Revenue,Revenue 
+706446,Freight Revenue Del Customers - Truck,Revenue,Revenue 
+706447,Freight Revenue Del Customers - Rail,Revenue,Revenue 
+706448,Freight Revenue Short Line Rail Fee,Revenue,Revenue 
+706450,Freight Revenue Ocean Break Bulk (L),Revenue,Revenue 
+706451,Freight Revenue Ocean Break Bulk (M),Revenue,Revenue 
+706460,Freight Revenue Ocean Bulk (L),Revenue,Revenue 
+706461,Freight Revenue Ocean Bulk (M),Revenue,Revenue 
+706462,Freight Revenue Energy Surcharge EU,Revenue,Revenue 
+706463,Freight Revenue Fuel Surcharge EU,Revenue,Revenue 
+706470,Freight Revenue Rail Lease Fee (L),Revenue,Revenue 
+706471,Freight Revenue Rail Lease Fee (M),Revenue,Revenue 
+706472,Freight Rev Software Prog Recovery,Revenue,Revenue 
+706487,PD (Hopper) Railcar Revenue,Revenue,Revenue 
+706488,Box Railcar Revenue,Revenue,Revenue 
+706493,Freight Revenue Drayage,Revenue,Revenue 
+706500,Sales of Services - Other Rev (M),Revenue,Revenue 
+706501,Sales of Services - Misc Income (M),Revenue,Revenue 
+706502,Sales of Services - Scrap,Revenue,Revenue 
+706503,Sales/Services -Royalty,Revenue,Revenue 
+706504,Sales/Services -Royalty-Non Mineral,Revenue,Revenue 
+706505,Exchange Rate Hedge on Sales,Revenue,Revenue 
+706510,Sales of Services - Timber,Revenue,Revenue 
+707000,Sales of Merchandise (L),Revenue,Revenue 
+707001,Sales of Merchandise (M),Revenue,Revenue 
+720000,Assets Produced by the Entity,Revenue,Revenue 
+720100,Project Capitalization-Var Cost,Revenue,Revenue 
+720200,Project Capitalization - Fixed Cost,Revenue,Revenue 
+750000,COS - Inv Chg FG,Revenue,Cost
+750001,COS - Inv Chg FG Shp - Pkg,Revenue,Cost
+750002,COS - Inv Chg FG Shp - Pkg Contra,Revenue,Cost
+750100,COS - Inv Chg FG Ship,Revenue,Cost
+750200,COS - Inv Chg FG On-hand,Revenue,Cost
+750250,COS - Inv Chg FG - Cycle Count,Revenue,Cost
+750251,COS - Inv Chg WIP - Cycle Count,Revenue,Cost
+750270,COS - Inv Chg FG - QC Scrap,Revenue,Cost
+750290,COS - Inv Chg FG - Inv Reval,Revenue,Cost
+750291,COS - Inv Chg WIP - Inv Reval,Revenue,Cost
+750300,COS - Inv Chg Freight,Revenue,Cost
+750301,COS-Inv Chg-FG-Value Added Freight,Cost,Cost
+750601,COS - Inv Chg - Var (Crude Stone),Revenue,Cost
+750602,COS - Inv Chg - Var (WIP),Revenue,Cost
+750603,COS - Inv Chg - Var (FG/Merch),Revenue,Cost
+750604,COS - Inv Chg - Fix (Crude Stone),Revenue,Cost
+750605,COS - Inv Chg - Fix (WIP),Revenue,Cost
+750606,COS - Inv Chg - Fix (FG/Merch),Revenue,Cost
+750900,Other Revenues - Interco Chrg,Revenue,Other Income
+750901,Platform VC Revenue-Standard,Revenue,Other Income
+750902,Platform VC Revenue-Variance,Revenue,Other Income
+750903,Platform FC Revenue-Standard,Revenue,Other Income
+750904,Platform FC Revenue-Variance,Revenue,Other Income
+750905,Non-Operating Cycle Intragroup Invoicing - Staff,Revenue,Other Income
+750906,Non-Operating Cycle Intragroup Invoicing - Staff - Inter BA,Revenue,Other Income
+751201,Value Added-Packaging-Bags,Cost,Cost
+751202,Value Added-Packaging-Pallets,Cost,Cost
+751203,Value Added-Packaging-Other Matl,Cost,Cost
+751205,Value Added-Packaging-Big Bags Unli,Cost,Cost
+751210,Value Added-WC at Std -VO,Cost,Cost
+751220,Value Added-WC at Std -FO,Cost,Cost
+751230,Value Added-WC at Std - DL,Cost,Cost
+751240,Value Added-WC at Std - Fuel,Cost,Cost
+751251,Value Added-Cat at Std-Dust Collector,Cost,Cost
+751252,Value Added-Cat at Std-Other Energy,Cost,Cost
+751253,Value Added-Cat at Std-Tires,Cost,Cost
+751254,Value Added-Cat at Std-Other Variable Overheads,Cost,Cost
+751255,Value Added-Cat at Std-Electricity,Cost,Cost
+751256,Value Added-Cat at Std-Direct Labor,Cost,Cost
+751257,Value Added-Cat at Std-Maintenance Labor,Cost,Cost
+751258,Value Added-Cat at Std-Overtime,Cost,Cost
+751259,Value Added-Cat at Std-Fringes,Cost,Cost
+751260,Value Added-Cat at Std-Operating Supplies,Cost,Cost
+751261,Value Added-Cat at Std-Safety Supplies,Cost,Cost
+751262,Value Added-Cat at Std-Packaging Supplies,Cost,Cost
+751263,Value Added-Cat at Std-Repairs,Cost,Cost
+751264,Value Added-Cat at Std-Major Expense Accrual,Cost,Cost
+751265,Value Added-Cat at Std-Ball Mill Media,Cost,Cost
+751266,Value Added-Cat at Std-Buildings & Grounds,Cost,Cost
+751267,Value Added-Cat at Std-Demurrage,Cost,Cost
+751268,Value Added-Cat at Std-Depreciation,Cost,Cost
+751269,Value Added-Cat at Std-Freight,Cost,Cost
+751270,Value Added-Cat at Std-Fuel,Cost,Cost
+751271,Value Added-Cat at Std-Fume disposal,Cost,Cost
+751272,Value Added-Cat at Std-Fusion Shells,Cost,Cost
+751273,Value Added-Cat at Std-Indirect Labor,Cost,Cost
+751274,Value Added-Cat at Std-Janitorial supplies,Cost,Cost
+751275,Value Added-Cat at Std-Legal,Cost,Cost
+751276,Value Added-Cat at Std-Maintenance supplies,Cost,Cost
+751277,Value Added-Cat at Std-Maintenance/Safety supplies,Cost,Cost
+751278,Value Added-Cat at Std-Outside services,Cost,Cost
+751279,Value Added-Cat at Std-Payroll Taxes,Cost,Cost
+751280,Value Added-Cat at Std-Screens,Cost,Cost
+751281,Value Added-Cat at Std-Supplies,Cost,Cost
+751282,Value Added-Cat at Std-Taxes/F&E/Sales in use,Cost,Cost
+751283,Value Added-Cat at Std-Travel/Meals,Cost,Cost
+751284,Value Added-Cat at Std-Water,Cost,Cost
+751285,Value Added-Cat at Std-Chemicals,Cost,Cost
+751286,Value Added-Cat at Std-Charge-In,Cost,Cost
+751287,Value Added-Cat at Std-Contract Mining,Cost,Cost
+751288,Value Added-Cat at Std-Crude Ore Fixed,Cost,Cost
+751289,Value Added-Cat at Std-Crude Ore Variable,Cost,Cost
+751290,Value Added-Cat at Std-Depletion,Cost,Cost
+751291,Value Added-Cat at Std-Fin Dry Goods Var,Cost,Cost
+751292,Value Added-Cat at Std-Fin Dry Goods Fix,Cost,Cost
+751293,Value Added-Cat at Std-Other Fixed,Cost,Cost
+751294,Value Added-Cat at Std-Freight to Slurry,Cost,Cost
+751295,Value Added-Cat at Std-Gas,Cost,Cost
+751296,Value Added-Cat at Std-Hourly Fixed,Cost,Cost
+751297,Value Added-Cat at Std-Hourly Variable,Cost,Cost
+751298,Value Added-Cat at Std-Maint & Repair,Cost,Cost
+751299,Value Added-Cat at Std-Mined Ore,Cost,Cost
+751300,Value Added-Cat at Std-Overburden,Cost,Cost
+751301,Value Added-Cat at Std-Other Packaging,Cost,Cost
+751302,Value Added-Cat at Std-Packaging Loss,Cost,Cost
+751303,Value Added-Cat at Std-Purchased Ore,Cost,Cost
+751304,Value Added-Cat at Std-Production Tax,Cost,Cost
+751305,Value Added-Cat at Std-Salary,Cost,Cost
+751306,Value Added-Cat at Std-Taxes,Cost,Cost
+751901,Material Variance - FG Parts,Revenue,Other Expense
+751990,Change in WIP Inventory,Cost,Other Expense
+751991,Change in Finished Products Inventory FIX,Cost,Other Expense
+751992,Change in Finished Products Inventory VARIABLE,Cost,Other Expense
+751993,Reevaluation in Finished Products Inventory FIX,Cost,Other Expense
+751994,Reevaluation in Finished Products Inventory VARIABLE,Cost,Other Expense
+751995,Stock Take in Finished Products Inventory FIX,Cost,Other Expense
+751996,Scrapping in Finished Products Inventory FIX,Cost,Other Expense
+751999,Clearing - WIP & FG Inv Change,Cost,Other Expense
+758000,Intergroup Recharge - Revenue,Revenue,Other Income 
+758001,Intercompany Commission Income,Revenue,Other Income 
+758100,SSC Allocated Fee,Revenue,Other Income 
+758200,SSC Flat Fee,Revenue,Other Income 
+758300,Intergroup Recharge - Inter BA,Revenue,Other Income 
+758400,Intra-BA Revenues,Revenue,Other Income 
+761000,Dividend Income,Revenue,Other Income 
+762050,Income Other Fin F/A - Internal,Revenue,Other Income 
+763000,Other Financial Revenue,Revenue,Other Income 
+763100,Pension Income - Financial,Revenue,Other Income 
+763200,Net Change in Defined Benefit Plans - Closed Plans,Revenue,Other Income 
+766000,Foreign Exchange Gains,Revenue,FX Difference
+766001,Unrealized Foreign Exchange Gains,Revenue,FX Difference
+768000,Other Fin Revenue,Revenue,FX Difference
+771000,Exceptional Oper Income,Revenue,Other Income 
+775000,Selling Price P.P.E. Disposals,Revenue,Other Income 
+775100,Selling Price Intangible Asset Disposals,Revenue,Other Income 
+775800,Selling Price Other Assets Disposal,Revenue,Other Income 
+776000,Except Rev on Investment Securities,Revenue,Other Income 
+777520,Selling Price PPE Disposals - Other Op Income,Revenue,Other Income 
+778000,Other Exceptional Income,Revenue,Other Income 
+778010,Other Operating Revenue IG,Revenue,Other Income 
+778011,Guarantee Fees (revenue),Revenue,Other Income 
+778020,Other non-current operation revenue IG,Revenue,Other Income 
+778030,Other non-current operation revenue non IG,Revenue,Other Income 
+778031,Imertech fees (revenue),Revenue,Other Income 
+778040,Other Operating Revenue - Imerys Fees,Revenue,Other Income 
+778041,Other Operating Revenue - Innovation Royalties,Revenue,Other Income 
+778042,Other Operating Revenue - Division Fees,Revenue,Other Income 
+778043,Other Operating Revenue - BU Fees,Revenue,Other Income 
+778044,Other Operating Revenue - Cost Sharing Allocation,Revenue,Other Income 
+778060,Shared Services Center fees (revenue),Revenue,Other Income 
+778061,Reinvoicing Group Services (revenue),Revenue,Other Income 
+778062,CAR Cluster fees (revenue),Revenue,Other Income 
+778063,Intragroup commissions (revenue),Revenue,Other Income 
+778200,Gain on Merger,Revenue,Other Income 
+781100,Decrease Dep PPE - Current Op Income,Revenue,Offset Provisions
+781450,Decrease Provision Reclamation,Revenue,Offset Provisions
+781451,Decrease Provision Reclamation - Variable (M08),Revenue,Offset Provisions
+781510,Dec in Prov (COI) Dismantling,Revenue,Offset Provisions
+781520,Dec in Prov (COI) Environmental,Revenue,Offset Provisions
+781530,Dec in Prov (COI) Restructionation cost,Revenue,Offset Provisions
+781540,Dec in Prov (COI) Litigation & Claims,Revenue,Offset Provisions
+781550,Dec in Prov (COI) Warranties,Revenue,Offset Provisions
+782150,Decr Prov for Risk & Chgs Op Margin,Revenue,Offset Provisions
+782170,Decr Write-Down Other Assets Op Mar,Revenue,Offset Provisions
+782300,Dec Prov for Inventory - LCM,Revenue,Offset Provisions
+782301,Decr Prov for Inventory - Variable (M08),Revenue,Offset Provisions
+782510,Offset Inc/Dec - Inventory Reserve,Revenue,Offset Provisions
+782530,Offset Inc/Dec - Wkrs Comp Reserve,Revenue,Offset Provisions
+782550,Offset Inc/Dec - Group Medical Resv,Revenue,Offset Provisions
+782560,Offset Inc/Dec - Legal Reserve,Revenue,Offset Provisions
+782570,Offset Inc/Dec - Site/Land Recl Rsv,Revenue,Offset Provisions
+782580,Offset Inc/Dec - Bad Debt Resv,Revenue,Offset Provisions
+782610,Offset Inc/Dec - Taxes & Duties,Revenue,Offset Provisions
+782620,Offset Inc/Dec - Transfer Exp,Revenue,Offset Provisions
+782630,Offset Inc/Dec - Severance,Revenue,Offset Provisions
+782750,Dec Prov Risk & Chgs Other Op Inc,Revenue,Offset Provisions
+782751,Decrease in Provisions - Other Op Income - Restoration,Revenue,Offset Provisions
+782752,Decrease in Provisions - Other Op Income - Environment,Revenue,Offset Provisions
+782753,Decrease in Provisions - Other Op Income - Dismantling,Revenue,Offset Provisions
+782754,Decrease in Provisions-Other Op Income-Restructuration cost,Revenue,Offset Provisions
+782755,Decrease in Provisions - Other Op Income- Legal,Revenue,Offset Provisions
+782761,Decr Write-Down Other Assets,Revenue,Offset Provisions
+788000,Decrease in Exceptional Provision,Revenue,Offset Provisions
+797000,Other Exp,Revenue,Offset Provisions
+801000,P&L Equity Income,Revenue,Offset Provisions
+810370,Kaolin,Cost,Offset Provisions
+810670,Talc,Cost,Offset Provisions
+810999,Clearing - Raw Materials,Cost,Offset Provisions
+811370,Chg in Raw Mat Inv-Kaolin,Cost,Offset Provisions
+811670,Chg in Raw Mat Inv-Talc,Cost,Offset Provisions
+811999,Clearing - Change in Raw Materials,Cost,Offset Provisions
+999920,Tons - Open Inventory,Cost,Cost
+999921,Tons - Transferred In,Cost,Cost
+999922,Tons - Used,Cost,Cost
+999923,Tons - Transferred Out,Cost,Cost
+999924,Ton - Packaged,Cost,Cost
+999930,Operating Hours - Regular,Cost,Cost
+999931,Operating Hours - Overtime,Cost,Cost
+999932,Non Operating Hours,Cost,Cost
+999940,Headcount Hourly Operating,Cost,Cost
+999941,Headcount Hourly Maint,Cost,Cost
+999942,Headcount Non Exempt,Cost,Cost
+999943,Headcount Exempt,Cost,Cost
+999944,Headcount Hourly,Cost,Cost
+999945,Headcount Salary,Cost,Cost
+999946,Headcount Temp (Internal),Cost,Cost
+999947,Headcount Temp (External),Cost,Cost
+999950,Americas Container Calcine,Cost,Cost
+999951,Americas Container Hyrdrous,Cost,Cost
+999952,Europe Container Calcine,Cost,Cost
+999953,Europe Container Hyrdrous,Cost,Cost
+999954,Pacific Container Calcine,Cost,Cost
+999955,Pacific Container Hydrous,Cost,Cost
+999956,Tons - Produced (Crude),Cost,Cost
+999957,Tons - Produced (FDG),Cost,Cost
+999958,Tons - Produced (FSG),Cost,Cost
+999959,Tons - Mined (Overburden),Cost,Cost
+999960,Tons - Purchased for Processing,Cost,Cost
+999961,Tons - Purchased for Resale,Cost,Cost
+999962,Tons - Purchased for Resale Sales,Cost,Cost
+999963,Tons - Mined (Ore),Cost,Cost
+999964,Tons - Mined (Waste),Cost,Cost
+999965,Tons - Used (Mined Ore),Cost,Cost
+999966,Tons - Used (FDG),Cost,Cost
+999967,Natural Gas (MMBTU),Cost,Cost
+999968,Natural Gas (GJ),Cost,Cost
+999969,Propane Liters,Cost,Cost
+999970,Diesel Liters,Cost,Cost
+999971,Fuel Oil Liters,Cost,Cost
+999972,Gasoline Liters,Cost,Cost
+999973,Therms Used,Cost,Cost
+999974,Kilowatt Hours,Cost,Cost
+999975,Diesel Gallons Used,Cost,Cost
+999976,Gasoline Gallons Used,Cost,Cost
+999977,Propane Gallons Used,Cost,Cost
+999978,Fuel Oil Gallons Used,Cost,Cost
+999980,Tons - Sold - small bag,Cost,Cost
+999981,Tons - Sold - bulk bag,Cost,Cost
+999982,Tons - Sold - bulk,Cost,Cost
+999983,Tons - Sold - Air Float,Cost,Cost
+999984,Tons - Sold - Semi dry,Cost,Cost
+999985,Tons - Sold - Slurry,Cost,Cost
+999986,Tons - Sold - Shredded,Cost,Cost
+999987,Tons - Sold - Lump,Cost,Cost
+999988,No. small bags consumed,Cost,Cost
+999989,No. bulk bags consumed,Cost,Cost
+999990,No. pallets consumed,Cost,Cost
+999992,Tons - Used (Crude),Cost,Cost
+999993,Estimated Reserve Tons,Cost,Cost
+999994,Tons - Kiln Run Production,Cost,Cost
+999995,Tons- Sized/Milled Production,Cost,Cost
+999996,Tons - Mined,Cost,Cost
+999997,Tons - Mined (Balancing),Cost,Cost
+999998,Tons - Sales,Cost,Cost
+999999,Tons - Production,Cost,Cost

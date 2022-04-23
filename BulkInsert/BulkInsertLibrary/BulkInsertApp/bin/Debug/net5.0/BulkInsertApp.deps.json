@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BulkInsertApp/1.0.0": {
+        "dependencies": {
+          "BulkInsertLibrary": "1.0.0"
+        },
+        "runtime": {
+          "BulkInsertApp.dll": {}
+        }
+      },
+      "BulkInsertLibrary/1.0.0": {
+        "runtime": {
+          "BulkInsertLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BulkInsertApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BulkInsertLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

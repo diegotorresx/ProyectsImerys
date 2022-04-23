@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "095a716d-7660-4e13-ab2a-6835d7f8facf": {
+      "ProjectGuid": "095a716d-7660-4e13-ab2a-6835d7f8facf",
+      "DisplayName": "AppRunMyProcess",
+      "ColorIndex": 0
+    },
+    "230618b4-ff5d-4069-8089-b9f9e51908c6": {
+      "ProjectGuid": "230618b4-ff5d-4069-8089-b9f9e51908c6",
+      "DisplayName": "Console",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

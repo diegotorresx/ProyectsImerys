@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CreatePDF/1.0.0": {
+        "dependencies": {
+          "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core": "19.3.0.54",
+          "UpdateDataTemplate": "1.0.0"
+        },
+        "runtime": {
+          "CreatePDF.dll": {}
+        }
+      },
+      "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core/19.3.0.54": {
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Compression.Portable.dll": {
+            "assemblyVersion": "19.3200.0.54",
+            "fileVersion": "19.3200.0.54"
+          },
+          "lib/netstandard2.0/Syncfusion.HtmlConverter.Portable.dll": {
+            "assemblyVersion": "19.3200.0.54",
+            "fileVersion": "19.3200.0.54"
+          },
+          "lib/netstandard2.0/Syncfusion.Pdf.Portable.dll": {
+            "assemblyVersion": "19.3200.0.54",
+            "fileVersion": "19.3200.0.54"
+          }
+        }
+      },
+      "UpdateDataTemplate/1.0.0": {
+        "runtime": {
+          "UpdateDataTemplate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreatePDF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core/19.3.0.54": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J69A1JrZCiKV/95S9ToPmFOXXT2eNpzFdK5vrfPm8pXBUULYyLMJXMeprY+WBZDx3bGbMFQ5Wm9F9naed7ZIFA==",
+      "path": "syncfusion.htmltopdfconverter.qtwebkit.net.core/19.3.0.54",
+      "hashPath": "syncfusion.htmltopdfconverter.qtwebkit.net.core.19.3.0.54.nupkg.sha512"
+    },
+    "UpdateDataTemplate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

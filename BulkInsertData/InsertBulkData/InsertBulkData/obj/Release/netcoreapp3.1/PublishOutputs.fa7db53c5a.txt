@@ -1,0 +1,17 @@
+C:\PublicacionesImeris\InsertData\Config\Config.csv
+C:\PublicacionesImeris\InsertData\Error\Error.csv
+C:\PublicacionesImeris\InsertData\Files\Data.csv
+C:\PublicacionesImeris\InsertData\InsertBulkData.exe
+C:\PublicacionesImeris\InsertData\InsertBulkData.dll
+C:\PublicacionesImeris\InsertData\InsertBulkData.deps.json
+C:\PublicacionesImeris\InsertData\InsertBulkData.runtimeconfig.json
+C:\PublicacionesImeris\InsertData\InsertBulkData.pdb
+C:\PublicacionesImeris\InsertData\Dapper.dll
+C:\PublicacionesImeris\InsertData\System.Data.SqlClient.dll
+C:\PublicacionesImeris\InsertData\runtimes\win-arm64\native\sni.dll
+C:\PublicacionesImeris\InsertData\runtimes\win-x64\native\sni.dll
+C:\PublicacionesImeris\InsertData\runtimes\win-x86\native\sni.dll
+C:\PublicacionesImeris\InsertData\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\PublicacionesImeris\InsertData\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\PublicacionesImeris\InsertData\BusinessLogicLibrary.dll
+C:\PublicacionesImeris\InsertData\BusinessLogicLibrary.pdb

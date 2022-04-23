@@ -1,0 +1,15 @@
+C:\PublicacionesImeris\ExcelReportRunMyProcess\Files\Report.txt
+C:\PublicacionesImeris\ExcelReportRunMyProcess\CreateReport.exe
+C:\PublicacionesImeris\ExcelReportRunMyProcess\CreateReport.dll
+C:\PublicacionesImeris\ExcelReportRunMyProcess\CreateReport.deps.json
+C:\PublicacionesImeris\ExcelReportRunMyProcess\CreateReport.runtimeconfig.json
+C:\PublicacionesImeris\ExcelReportRunMyProcess\CreateReport.pdb
+C:\PublicacionesImeris\ExcelReportRunMyProcess\ClosedXML.dll
+C:\PublicacionesImeris\ExcelReportRunMyProcess\DocumentFormat.OpenXml.dll
+C:\PublicacionesImeris\ExcelReportRunMyProcess\ExcelNumberFormat.dll
+C:\PublicacionesImeris\ExcelReportRunMyProcess\Microsoft.Win32.SystemEvents.dll
+C:\PublicacionesImeris\ExcelReportRunMyProcess\System.Drawing.Common.dll
+C:\PublicacionesImeris\ExcelReportRunMyProcess\System.IO.Packaging.dll
+C:\PublicacionesImeris\ExcelReportRunMyProcess\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\PublicacionesImeris\ExcelReportRunMyProcess\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\PublicacionesImeris\ExcelReportRunMyProcess\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll

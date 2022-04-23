@@ -1,0 +1,14 @@
+C:\PublicacionesImeris\Console.exe
+C:\PublicacionesImeris\Console.dll
+C:\PublicacionesImeris\Console.deps.json
+C:\PublicacionesImeris\Console.runtimeconfig.json
+C:\PublicacionesImeris\Console.pdb
+C:\PublicacionesImeris\Dapper.dll
+C:\PublicacionesImeris\System.Data.SqlClient.dll
+C:\PublicacionesImeris\runtimes\win-arm64\native\sni.dll
+C:\PublicacionesImeris\runtimes\win-x64\native\sni.dll
+C:\PublicacionesImeris\runtimes\win-x86\native\sni.dll
+C:\PublicacionesImeris\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\PublicacionesImeris\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\PublicacionesImeris\InsertData2.dll
+C:\PublicacionesImeris\InsertData2.pdb

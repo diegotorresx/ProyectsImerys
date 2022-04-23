@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BusinessLogicLibrary</id>
+    <version>1.0.0</version>
+    <authors>BusinessLogicLibrary</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Dapper" version="2.0.123" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\ProyectosImeris\BulkInsertData\InsertBulkData\BusinessLogicLibrary\bin\Release\netcoreapp3.1\BusinessLogicLibrary.dll" target="lib\netcoreapp3.1\BusinessLogicLibrary.dll" />
+  </files>
+</package>

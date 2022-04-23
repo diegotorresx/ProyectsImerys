@@ -1,0 +1,10 @@
+C:\ProyectosImeris\InsertData2\InsertData2\bin\Release\netcoreapp3.1\InsertData2.deps.json
+C:\ProyectosImeris\InsertData2\InsertData2\bin\Release\netcoreapp3.1\InsertData2.dll
+C:\ProyectosImeris\InsertData2\InsertData2\bin\Release\netcoreapp3.1\InsertData2.pdb
+C:\ProyectosImeris\InsertData2\InsertData2\obj\Release\netcoreapp3.1\InsertData2.csproj.AssemblyReference.cache
+C:\ProyectosImeris\InsertData2\InsertData2\obj\Release\netcoreapp3.1\InsertData2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosImeris\InsertData2\InsertData2\obj\Release\netcoreapp3.1\InsertData2.AssemblyInfoInputs.cache
+C:\ProyectosImeris\InsertData2\InsertData2\obj\Release\netcoreapp3.1\InsertData2.AssemblyInfo.cs
+C:\ProyectosImeris\InsertData2\InsertData2\obj\Release\netcoreapp3.1\InsertData2.csproj.CoreCompileInputs.cache
+C:\ProyectosImeris\InsertData2\InsertData2\obj\Release\netcoreapp3.1\InsertData2.dll
+C:\ProyectosImeris\InsertData2\InsertData2\obj\Release\netcoreapp3.1\InsertData2.pdb

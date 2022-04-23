@@ -1,0 +1,17 @@
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\bin\Release\netcoreapp3.1\Count_Pages_PDF.exe
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\bin\Release\netcoreapp3.1\Files\Config.txt
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\bin\Release\netcoreapp3.1\Count_Pages_PDF.deps.json
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\bin\Release\netcoreapp3.1\Count_Pages_PDF.runtimeconfig.json
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\bin\Release\netcoreapp3.1\Count_Pages_PDF.runtimeconfig.dev.json
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\bin\Release\netcoreapp3.1\Count_Pages_PDF.dll
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\bin\Release\netcoreapp3.1\Count_Pages_PDF.pdb
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\bin\Release\netcoreapp3.1\itextsharp.dll
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\obj\Release\netcoreapp3.1\Count_Pages_PDF.csproj.AssemblyReference.cache
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\obj\Release\netcoreapp3.1\Count_Pages_PDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\obj\Release\netcoreapp3.1\Count_Pages_PDF.AssemblyInfoInputs.cache
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\obj\Release\netcoreapp3.1\Count_Pages_PDF.AssemblyInfo.cs
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\obj\Release\netcoreapp3.1\Count_Pages_PDF.csproj.CoreCompileInputs.cache
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\obj\Release\netcoreapp3.1\Count_Pages_PDF.dll
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\obj\Release\netcoreapp3.1\Count_Pages_PDF.pdb
+C:\ProyectosImeris\Count_Pages_PDF\Count_Pages_PDF\Count_Pages_PDF\obj\Release\netcoreapp3.1\Count_Pages_PDF.genruntimeconfig.cache

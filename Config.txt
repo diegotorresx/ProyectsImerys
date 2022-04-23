@@ -1,0 +1,22 @@
+Key|Value
+RpaId|SOCanceller
+AXCompany|N/A
+EmailSupport|diego.torres@external.imerys.com,rpasupport@imerys.com|Emails that alerts error alerts
+EmailFromNotifications|rpasupport@imerys.com|Email for send notificación of the process
+Task|Start of SO Canceller
+EndTask|End of SO Canceller
+FailedStatus|Failed
+SuccessStatus|Success
+FolderEnviroment| SOCancel _Completed TEST
+SubFolderEnviroment|Test SOCancel
+FolderEnviromentTest|SOCancel _Completed TEST
+FolderEnviromentProd|SOCancel _Completed PROD
+SubFolderEnviromentTest|Test SOCancel
+SubFolderEnviromentProd|PROD SOCancel
+NameFile|SOCancel Completed- TEST
+NameFileProd|SOCancel Completed- PROD
+NameFileTest|SOCancel Completed- TEST
+IdTemplateBackupFile|1DfNcT3F6ss17xtiIDMWBmiBKXbxttlQ9J2tEugYqWjw
+SpreadSheetileInputId|1p42V4rHTUcLoaAF3lYr42oFMbCiOBq_-7GDhB-K1jvA
+pathFolderLogFiles|C:\BotDocuments\Sales_Order_Cancellation\LogFiles
+pathSOCancellerApp|C:\BotDocuments\Sales_Order_Cancellation\ConfigFiles\SOCancelerApp

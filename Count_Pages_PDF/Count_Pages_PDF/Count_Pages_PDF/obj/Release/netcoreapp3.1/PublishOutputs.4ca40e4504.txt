@@ -1,0 +1,8 @@
+C:\PublicacionesImeris\Files\Config.txt
+C:\PublicacionesImeris\Count_Pages_PDF.exe
+C:\PublicacionesImeris\Count_Pages_PDF.dll
+C:\PublicacionesImeris\Count_Pages_PDF.deps.json
+C:\PublicacionesImeris\Count_Pages_PDF.runtimeconfig.json
+C:\PublicacionesImeris\Count_Pages_PDF.pdb
+C:\PublicacionesImeris\BouncyCastle.Crypto.dll
+C:\PublicacionesImeris\itextsharp.dll
